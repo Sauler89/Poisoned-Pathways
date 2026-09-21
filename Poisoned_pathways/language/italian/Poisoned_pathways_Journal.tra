@@ -1,0 +1,332 @@
+// Journal strings
+
+//Quest start
+@12000 = ~Il Veleno Perfetto
+
+Ad Athkatla, un seguace di Eldath di nome Merethan mi ha parlato di una tossina incurabile che si sta diffondendo per le terre. Crede che dietro vi sia un misterioso fornitore di veleni e mi ha chiesto di aiutarlo a risalire alla fonte.~
+
+@12001 = ~Il Veleno Perfetto
+
+Merethan mi ha indicato Skann Delth, un piccolo trafficante di veleni che si aggira sul tetto del Diadema di Rame. Devo insistere perché mi riveli l'origine delle sue merci più letali. Merethan mi aspetta al Tempio di Ilmater nei Bassifondi di Athkatla.~
+
+@12002 = ~Il Veleno Perfetto
+
+Ho affrontato Skann Delth e ottenuto una mappa per un luogo appartato chiamato Conca dei Funghi. Devo portare questa mappa a Merethan, che mi attende al Tempio di Ilmater nei Bassifondi di Athkatla.~
+
+@12003 = ~Il Veleno Perfetto
+
+Merethan desidera che lo accompagni alla Conca dei Funghi per vedere se l'avvelenatore si farà vivo. Mi attende al Tempio di Ilmater nei Bassifondi, così che possiamo partire insieme.~
+
+@12004 = ~Il Veleno Perfetto
+
+Alla Conca dei Funghi, quello che doveva essere uno scambio si è trasformato in un'imboscata. Il servitore del misterioso avvelenatore ha abbattuto Merethan, ma una delle frecce è rimasta intrisa della tossina. Prima di morire, mi ha affidato la freccia e mi ha esortato a portarla al Custode delle Cascate Alatoasz Berendim nella Valle di Duskwood, il santuario di Eldath.~
+
+@12005 = ~Il Veleno Perfetto
+
+Il Custode delle Cascate Alatoasz crede che la chiave per comprendere il veleno si trovi tra le rovine di un'antica città elfica. Sospetta che la rara pianta usata per crearlo possa crescere là. Per restringere la ricerca mi ha chiesto di visitare il Tempio di Oghma ad Athkatla e consultare i tomi sul regno perduto di Keltormir custoditi al suo interno.~
+
+@12006 = ~Il Veleno Perfetto
+
+Ho riportato al Custode delle Cascate Alatoasz il tomo del Tempio di Oghma. I suoi passaggi indicano Myth Unnohyr, una città elfica in rovina il cui mythal infranto genera magia selvaggia di giorno e magia morta di notte. La contaminazione è penetrata in una rara pianta usata per creare il veleno incurabile. Devo raggiungere Myth Unnohyr, trovare l'avvelenatore, un Malagent di Talona, e riportare un fiore della pianta corrotta affinché il Custode delle Cascate possa tentare di preparare un antidoto.~
+
+@12007 = ~Il Veleno Perfetto
+
+Ho affrontato il Malagent nel cuore delle rovine di Myth Unnohyr e posto fine ai suoi piani. Ora devo riportare un campione della pianta corrotta al Custode delle Cascate Alatoasz Berendim nella Valle di Duskwood, affinché possa essere creato un antidoto.~
+
+@12008 = ~Il Veleno Perfetto
+
+Ho trovato la pianta corrotta nota come Digitale del Bosco, la fonte del veleno perfetto. Dopo aver sconfitto il Malagent, devo portare questo campione al Custode delle Cascate Alatoasz Berendim nella Valle di Duskwood, affinché possa tentare di purificarne l'essenza e preparare un antidoto.~
+
+@12009 = ~Il Veleno Perfetto
+
+Il Malagent è morto e la sua opera nefasta giace in rovina. Ho portato la Digitale del Bosco al Custode delle Cascate Alatoasz Berendim nella Valle di Duskwood, il quale ritiene che si possa creare un antidoto contro il veleno già diffuso in tutto l'Amn. Tuttavia, per purificare il fiore contaminato e preparare la cura sarà necessario l'aiuto di altre fedi.~
+
+// The antidote
+
+@12100 = ~L'Antidoto
+
+Il Custode delle Cascate Alatoasz ritiene che la Digitale del Bosco possa essere purificata e trasformata in un antidoto. Per riuscirci, il fiore deve ricevere tre benedizioni: gli aspetti divini della Vita, della Compassione e del Rinnovamento. Alatoasz mi ha concesso personalmente la prima benedizione, ma dovrò cercare le altre due.~
+
+@12101 = ~L'Antidoto: Benedizione della Compassione di Ilmater
+
+Devo recarmi al Tempio di Ilmater nei Bassifondi di Athkatla e chiedere la Benedizione della Compassione.~
+
+@12102 = ~L'Antidoto: Benedizione del Rinnovamento di Lathander
+
+Devo visitare la Chiesa di Lathander ad Athkatla per ricevere la Benedizione del Rinnovamento.~
+
+@12103 = ~L'Antidoto: l'acqua cantante di Eldath
+
+Alatoasz mi ha incaricato di raccogliere una caraffa dell'acqua cantante di Eldath dalla grotta nella Valle di Duskwood. Una delle ancelle che custodiscono la pozza sacra me la fornirà. L'acqua servirà da tramite finale per unire le benedizioni.~
+
+@12104 = ~L'Antidoto: Benedizione della Compassione di Ilmater
+
+Ho ricevuto la Benedizione della Compassione dai fedeli di Ilmater nei Bassifondi.~
+
+@12105 = ~L'Antidoto: Benedizione del Rinnovamento di Lathander
+
+Lathander mi ha concesso la Benedizione del Rinnovamento.~
+
+@12106 = ~L'Antidoto: l'acqua cantante di Eldath
+
+Ho ottenuto una brocca dell'acqua cantante di Eldath dalla grotta nella Valle di Duskwood. Ora non resta che tornare dal Custode delle Cascate Alatoasz con il fiore benedetto e l'acqua santa.~
+
+@12107 = ~L'Antidoto
+
+Tutte e tre le benedizioni sono state raccolte: Vita, Compassione e Rinnovamento, e ho ottenuto l'acqua cantante di Eldath. Ora devo tornare dal Custode delle Cascate Alatoasz nella Valle di Duskwood, affinché l'antidoto possa essere finalmente creato e la corruzione della Digitale del Bosco purificata una volta per tutte.~
+
+@12108 = ~L'Antidoto
+
+Ho raccolto tutto ciò che occorreva: la Digitale del Bosco, le benedizioni e una caraffa dell'acqua cantante di Eldath. Il Custode delle Cascate Alatoasz ritiene che, per preparare l'antidoto, il fiore santificato e l'acqua santa debbano essere posti nel calderone del Malagent tra le rovine di Myth Unnohyr, il luogo stesso in cui il veleno fu preparato per la prima volta.~
+
+@12110 = ~L'Antidoto
+
+Il rituale è riuscito e la corruzione della Digitale del Bosco è stata purificata. Devo riportare l'antidoto al Custode delle Cascate Alatoasz Berendim nella Valle di Duskwood.~
+
+@12111 = ~L'Antidoto
+
+Ho consegnato l'antidoto ad Alatoasz Berendim. Il veleno che un tempo minacciava le Terre degli Intrighi non potrà diffondersi oltre.~
+
+/******************************
+SIDE quest journal entries
+******************************/
+// Duskwood Dell – Missing Faerie Twins Quest
+
+@13000 = ~Le Gemelle Fatate Scomparse
+
+Le fate della Valle di Duskwood sono scomparse. Fratello Edrim mi ha chiesto di indagare. Le gemelle sono state viste l'ultima volta mentre parlavano con un mercante vestito di seta di un rosso vivo, che parlava con uno strano accento e una "r" molto marcata. Ha proseguito verso ovest, in direzione di Athkatla, e potrebbe nascondersi tra i mercanti della Passeggiata di Waukeen. Se commercia davvero in curiosità magiche, lo troverò là.~
+
+@13001 = ~Le Gemelle Fatate Scomparse
+
+Tra le bancarelle della Passeggiata di Waukeen ho incontrato un curioso mercante che corrisponde alla descrizione di Fratello Edrim: un uomo vestito di seta rossa, che commercia oggetti insoliti e parla con un fascino strano, quasi ipnotico. C'è qualcosa in lui che... non mi convince.~
+
+@13002 = ~Le Gemelle Fatate Scomparse
+
+Il mercante che si fa chiamare Zar'khaan non era affatto un mercante, bensì un rakshasa sotto mentite spoglie. Devo scoprire se porta con sé le Gemelle Luce di Duskwood, forse sigillate dentro un piccolo recipiente o qualche gingillo incantato.~
+
+@13003 = ~Le Gemelle Fatate Scomparse
+
+Ho trovato le Gemelle Luce di Duskwood. Il rakshasa le aveva imprigionate in un recipiente magico sigillato da un potente incantesimo. Sebbene le fate sembrino illese, il barattolo non si apre. Dovrei riportarlo a Fratello Edrim nella Valle di Duskwood: forse saprà come spezzare il sigillo.~
+
+@13004 = ~Le Gemelle Fatate Scomparse
+
+Ho riportato il recipiente di vetro a Fratello Edrim nella Valle di Duskwood. È riuscito a spezzare il sigillo e le Gemelle Luce di Duskwood sono emerse illese. La pace, e un po' di malizia, sono tornate nella Valle di Duskwood.~
+
+// Mythal forge amulet
+@13010 = ~Vincolare ciò che è libero
+
+Tra i resti di un mago morto ho trovato una lettera che descriveva il mythal infranto di Myth Unnohyr. Egli credeva che fosse possibile forgiare un antico talismano elfico capace di resistere alla corruzione del mythal, se si fossero combinate le essenze di due rari fuochi fatui, nati rispettivamente dalla magia selvaggia e dalla magia morta, con i due frammenti della reliquia stessa.~
+
+@13011 = ~Vincolare ciò che è libero
+
+Ho scoperto un'antica incudine elfica, la cui superficie è ancora liscia nonostante il trascorrere dei secoli. Un tempo veniva usata per creare raffinati ornamenti e reliquie sacre. Se esiste un luogo in cui la magia può essere nuovamente vincolata, è questo.~
+
+@13012 = ~Vincolare ciò che è libero
+
+Ho trovato una delicata catena elfica, probabilmente parte di un talismano. Un tempo doveva sostenere un pendente di qualche genere.~
+
+@13013 = ~Vincolare ciò che è libero
+
+Ho scoperto la parte frontale di un amuleto finemente lavorato, chiaramente di fattura elfica. Il suo incavo sembra destinato a una catena. Se restaurati, i due pezzi potrebbero formare un talismano completo.~
+
+@13014 = ~Vincolare ciò che è libero
+
+Ho ottenuto l'essenza di un Fuoco Selvaggio, un frammento di energia caotica che vibra di magia instabile.~
+
+@13015 = ~Vincolare ciò che è libero
+
+Ho catturato l'essenza di un Fuoco Morto, impregnata di magia morta.~
+
+@13016 = ~Vincolare ciò che è libero
+
+Ora possiedo tutto ciò che serve per forgiare il talismano descritto nella lettera del mago: la catena elfica, la parte frontale dell'amuleto e le due essenze dei fuochi fatui, una di magia selvaggia e una di magia morta. Forse, presso l'antica incudine che ho trovato, i loro poteri potranno essere uniti.~
+
+@13017 = ~Vincolare ciò che è libero
+
+Alla vecchia incudine ho combinato le due essenze dei fuochi fatui con il talismano elfico restaurato. La reliquia si è risvegliata. La corruzione del mythal non influenza più gli incantesimi di chi indossa il talismano.~
+
+// Banshee seeking head:
+@13020 = ~Lamento dei Perduti
+
+Ai piani superiori di una torre in rovina di Myth Unnohyr ho incontrato una banshee che piange eternamente la morte del suo amato. Cerca qualcosa che glielo ricordi, qualcosa che possa finalmente permettere al suo spirito di riposare.~
+
+@13021 = ~Lamento dei Perduti
+
+Ho trovato una testa elfica mozzata tra le rovine di Myth Unnohyr. I suoi lineamenti sono stranamente sereni nonostante la macabra sorte.~
+
+@13022 = ~Lamento dei Perduti
+
+Ho restituito alla banshee la testa del suo amato. Ha sussurrato un ultimo sospiro ed è svanita, il suo dolore finalmente placato.~
+
+@13023 = ~Lamento dei Perduti
+
+Ho distrutto una banshee che infestava una torre in rovina di Myth Unnohyr. Il suo dolore non tormenterà più questo luogo.~
+
+// Honeymead Quest
+@13030 = ~L'Idromele dei Seguaci di Eldath
+
+Nella Valle di Duskwood ho incontrato un apicoltore seguace di Eldath che produce un raro idromele. Mi ha chiesto di portarne una sola bottiglia alla Locanda dei Cinque Boccali ad Athkatla e venderla a Samuel Thunderburp a un prezzo equo.~
+
+@13032 = ~L'Idromele dei Seguaci di Eldath
+
+Ho venduto la bottiglia di idromele a Samuel Thunderburp per cento monete d'oro.~
+
+@13033 = ~L'Idromele dei Seguaci di Eldath
+
+Ho venduto la bottiglia di idromele a Samuel Thunderburp per cinquecento monete d'oro.~
+
+@13034 = ~L'Idromele dei Seguaci di Eldath
+
+Ho venduto la bottiglia di idromele a Samuel Thunderburp per settecentocinquanta monete d'oro.~
+
+@13035 = ~L'Idromele dei Seguaci di Eldath
+
+Ho venduto la bottiglia di idromele a Samuel Thunderburp per mille monete d'oro.~
+
+@13036 = ~L'Idromele dei Seguaci di Eldath
+
+Ho fatto ritorno dall'apicoltore nella Valle di Duskwood e gli ho portato cento monete d'oro per l'idromele. Ha accettato il pagamento con evidente delusione.~
+
+@13037 = ~L'Idromele dei Seguaci di Eldath
+
+Ho fatto ritorno dall'apicoltore nella Valle di Duskwood e gli ho consegnato cinquecento monete d'oro per l'idromele. Ha sorriso debolmente, grato per la mia onestà.~
+
+@13038 = ~L'Idromele dei Seguaci di Eldath
+
+Ho portato all'apicoltore settecentocinquanta monete d'oro per l'idromele. È rimasto piacevolmente sorpreso.~
+
+@13039 = ~L'Idromele dei Seguaci di Eldath
+
+Ho fatto ritorno dall'apicoltore con mille monete d'oro per l'idromele. È rimasto stupito dalla mia generosità e ha pronunciato una sincera preghiera per me.~
+
+// Boy and worm
+
+@13040 = ~Il Piccolo Pescatore
+
+Un ragazzo sul molo della Valle di Duskwood mi ha chiesto di aiutarlo a trovare un verme per pescare.~
+
+@13041 = ~Il Piccolo Pescatore
+
+Ho trovato un verme che si contorceva nel terreno soffice della Valle di Duskwood. Forse è l'esca fortunata che il ragazzo stava cercando.~
+
+@13042 = ~Il Piccolo Pescatore
+
+Ho dato il verme al ragazzo sul molo. Invece di usarlo come esca, ha deciso di tenerlo come animale da compagnia. I due sembrano piuttosto felici insieme.~
+
+@13043 = ~Il Piccolo Pescatore
+
+Ho gettato il verme in acqua invece di darlo al ragazzo. È scoppiato a piangere, mi ha coperto di insulti ed è scappato. Dubito che potrò rimettere piede sul molo senza problemi.~
+
+// Montrassa - emblem
+@13050 = ~L'Emblema di Eldath
+
+Nella Valle di Duskwood ho incontrato un'anziana seguace di Eldath di nome Montrassa. Le sue mani tremano per l'età e non riesce più a intagliare gli emblemi sacri che un tempo realizzava per il suo tempio. Ha parlato con affetto di Merethan, ma ha umilmente rifiutato il suo emblema, dicendo che un simile dono dovrebbe essere concesso soltanto con la benedizione del Sommo Custode delle Cascate. Forse dovrei parlarne con Alatoasz Berendim.~
+
+@13051 = ~L'Emblema di Eldath
+
+Alatoasz ha convenuto che Montrassa è degna di portare l'emblema di Merethan. Dovrei consegnarglielo nella Valle di Duskwood, affinché possa nuovamente portare il simbolo della sua dea.~
+
+@13052 = ~L'Emblema di Eldath
+
+Ho dato l'emblema di Merethan a Montrassa.~
+
+// Siren
+@13060 = ~La Furia della Sirine
+
+Nella Valle di Duskwood ho incontrato una sirine tormentata dall'ira e dal dolore. Forse qualcuno nella Valle sa come placare la sua inquietudine.~
+
+@13061 = ~La Furia della Sirine
+
+Un'anziana sacerdotessa di Eldath mi ha affidato una tazza di infuso d'erbe. Crede che possa calmare il cuore della sirine.~
+
+@13062 = ~La Furia della Sirine
+
+Ho dato l'infuso benedetto alla sirine. Per gratitudine mi ha offerto le sue vecchie frecce, dicendo che avevano portato con sé la sua ira fin troppo a lungo.~
+
+
+//HALFLING
+@13072 = ~La Mercante Halfling
+
+Ho incontrato nelle terre selvagge una mercante halfling di nome Debbie Gobblebubble. Ha deciso di recarsi a Trademeet, dove la sua cucina e la sua merce potrebbero trovare un'accoglienza più calorosa.~
+
+@13073 = ~La Mercante Halfling
+
+Ho incontrato nelle terre selvagge una mercante halfling di nome Debbie Gobblebubble. È partita per Athkatla per tentare la fortuna tra i mercanti e i viandanti della Passeggiata di Waukeen.~
+
+@13074 = ~La Mercante Halfling
+
+Ho incontrato nelle terre selvagge una mercante halfling di nome Debbie Gobblebubble. Ha scelto di dirigersi verso l'Abbazia delle Guglie Dorate, il sacro rifugio dei mercanti devoti a Waukeen.~
+
+// Mannatarv wants to die
+@13080 = ~Una Morte Serena
+
+Nella Valle di Duskwood ho incontrato un vecchio di nome Mannatarv. È fragile e stanco della vita, ma i sacerdoti di Eldath si rifiutano di lasciarlo morire. Mi ha chiesto di portargli una foglia della Digitale del Bosco prima che venga creato un antidoto, così da poter finalmente lasciare questo mondo.~
+
+@13081 = ~Una Morte Serena
+
+Ho accettato la richiesta di Mannatarv. Mi attende nell'infermeria della Valle di Duskwood per ricevere la foglia velenosa, pronto a porre fine alle proprie sofferenze al mio ritorno.~
+
+@13082 = ~Una Morte Serena
+
+Ho dato a Mannatarv una foglia della Digitale del Bosco. È morto poco dopo.~
+
+@13083 = ~Una Morte Serena
+
+Ho rifiutato di aiutare Mannatarv a porre fine alla propria vita. I sacerdoti di Eldath lo terranno in vita con le loro cure, che lui lo desideri o meno.~
+
+// Wadal Hrun
+@13090 = ~La Torre dell'Avvelenatore
+
+Ho incontrato uno dei servitori yuan-ti del seguace di Talona presso le rovine avvelenate di Myth Unnohyr. La creatura si è nascosta da qualche parte nella città e l'ingresso della torre dell'avvelenatore rimane sigillato da una protezione sconosciuta.~
+
+@13091 = ~La Torre dell'Avvelenatore
+
+Ho ucciso il servitore yuan-ti. Tra i suoi averi c'era una piccola pietra ioun. Probabilmente serve come chiave per la torre dell'avvelenatore.~
+
+// Grotto quest
+@13110 = ~Dove l'Acciaio Tace
+
+La fanciulla della grotta nella Valle di Duskwood si è offerta di prendere tutte le armi di cui non ho più bisogno, per lasciarle riposare nella pozza sacra di Eldath. Ha promesso che, così facendo, riceverò la sua benedizione insieme a un lieve rinnovamento della mia vitalità.~
+
+@13111 = ~Dove l'Acciaio Tace
+
+Ho offerto una delle mie armi alla pozza. Ho percepito per un istante il tocco della pace di Eldath.~
+
+// Runaway Nephew
+@13120 = ~Il Nipote Fuggitivo
+
+Nella Valle di Duskwood ho incontrato un giovane fuggito dalla zia nel Distretto Governativo di Athkatla. Mi ha chiesto di portarle un fiore e dirle che sta bene.~
+
+@13121 = ~Il Nipote Fuggitivo
+
+Ho incontrato la zia del ragazzo nel Distretto Governativo di Athkatla. All'inizio era furiosa, ma il messaggio, e il fiore, hanno placato la sua ira. Ha detto che la prossima volta dovrebbe essere lui a portarle i fiori.~
+
+@13122 = ~Il Nipote Fuggitivo
+
+Ho fatto ritorno dal ragazzo nella Valle di Duskwood e gli ho riferito le parole di sua zia. Finalmente può concentrarsi sulla vita che desiderava davvero vivere.~
+
+@13123 = ~Il Nipote Fuggitivo
+
+Ho incontrato la zia del ragazzo nel Distretto Governativo di Athkatla e le ho consegnato il fiore.~
+
+
+// Coinquest
+@13130 = ~La Promessa Mancata
+
+Ho trovato un biglietto sgualcito addosso a un avventuriero morto. Parlava di un incontro notturno dietro il Tempio di Helm nel Distretto del Ponte di Athkatla, per ottenere ciò che qualcuno continuava a chiedere. Il biglietto era indirizzato a un uomo di nome Marrik. Ho trovato anche una moneta consunta con il volto di un uomo anziano. Forse le due cose sono collegate.~
+
+@13131 = ~La Promessa Mancata
+
+Dietro il Tempio di Helm nel Distretto del Ponte ho incontrato un uomo e gli ho mostrato il gettone. Mi ha mandato a un altro luogo d'incontro dietro il Tempio di Lathander nel Distretto del Tempio, ancora una volta dopo il calar della notte. Ha detto che avrei ottenuto ciò che cercavo, anche se non ho idea di che cosa significhi.~
+
+@13132 = ~La Promessa Mancata
+
+Dietro il Tempio di Lathander sembravano attendere sia me sia la moneta. L'uomo che si trovava là ha sostenuto che il prossimo incontro si sarebbe tenuto al Tempio di Waukeen nel Distretto Governativo, dopo il calar della notte. Nessuno ha ancora spiegato che cosa dovrei ricevere.~
+
+@13133 = ~La Promessa Mancata
+
+Al Tempio di Waukeen mi hanno mandato avanti ancora una volta. Hanno parlato di un ultimo incontro, questa volta di notte dietro il Tempio di Ilmater nei Bassifondi. La promessa è sempre la stessa: otterrò ciò che desideravo. Eppure ormai non so più che cosa sia.~
+
+@13134 = ~La Promessa Mancata
+
+Dietro il Tempio di Ilmater ho finalmente incontrato l'uomo di cui tutti gli altri avevano parlato. Mi ha chiesto della geas che avrebbe dovuto vincolarmi, ma la lettera che portavo apparteneva a qualcuno morto da molto tempo. Qualunque fardello o supplica il mittente originale sperasse di risolvere, la sua storia è terminata altrove e nulla di tutto ciò aveva a che fare con me.~

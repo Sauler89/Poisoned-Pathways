@@ -1,0 +1,183 @@
+//NOTE TO TRANSLATORS: KEEP THE FORMATTING - it's for the correct colors
+ 
+@4850 = ~^0xFFE3B0FF Lilafern: ^-<CHARNAME>! Il mondo sembra di nuovo immenso: l'aria, la luce, persino il rumore dei vostri passi!~
+@4851 = ~^0xFF9ADCE3 Tippledew: ^-Se la libertà si potesse imbottigliare, ne berrei fino all'ultima goccia!~
+@4852 = ~^0xFFE3B0FF Lilafern: ^-Mai più bottiglie, Tippledew... mai più. Preferirei dormire nella bocca di un drago piuttosto che in un altro barattolo!~
+@4853 = ~^0xFF9ADCE3 Tippledew: ^-Siete qui per esprimere un desiderio o risolvere qualche indovinello?~
+@4854 = ~Un desiderio, forse... potete davvero esaudirne uno?~
+@4855 = ~Volete fare degli indovinelli? Avanti.~
+@4856 = ~Per favore, smettetela di scintillarmi vicino alla faccia.~
+@4857 = ~Passavo soltanto di qui, piccoline.~
+@4858 = ~^0xFFE3B0FF Lilafern: ^-Siamo libere!~
+@4859 = ~^0xFF9ADCE3 Tippledew: ^-<CHARNAME> ci ha liberate!~
+@4860 = ~Oh, è meraviglioso rivedervi entrambe!~
+@4861 = ~^0xFFE3B0FF Lilafern: ^-Fratello Edrim! Non vi arrabbierete se ricominciamo a tirarvi la veste, vero?~
+@4862 = ~No, certamente no. Potete tormentarmi quanto volete! Sono soltanto felice che siate sane e salve.~
+@4863 = ~^0xFF9ADCE3 Tippledew: ^-Ve lo dico io, quella sì che è stata *un'avventura*!~
+@4864 = ~^0xFFE3B0FF Lilafern: ^-E tutte queste avventure fanno venire un sonno terribile!~
+@4865 = ~^0xFF9ADCE3 Tippledew: ^-Sì, Lilafern. Riposiamoci, ma non prima di aver ringraziato come si deve chi ci ha salvate.~
+@4866 = ~^0xFFE3B0FF Lilafern: ^-Cento benedizioni e cento scintille su di voi, <CHARNAME>! Vi avremmo baciato i piedi se non puzzassero così terribilmente.~
+@4867 = ~^0xFF9ADCE3 Tippledew: ^-Grazie, <CHARNAME>! Ci avete restituito la luce, le risate e il delizioso piccolo caos che ci mancava tanto.~
+@4868 = ~^0xFFE3B0FF Lilafern: ^-Aspetta! Non possiamo lasciare andare <PRO_HIMHER> senza un desiderio! Sarebbe... da ingrati, o forse porterebbe sfortuna. O entrambe le cose!~
+@4869 = ~^0xFF9ADCE3 Tippledew: ^-Esattamente, Lilafern! Un piccolo dono e un po' di scintillio per tenere lontane le cose brutte. Che cosa desiderate, <CHARNAME>?~
+@4870 = ~^0xFFE3B0FF Lilafern: ^-Allora! Un desiderio, <CHARNAME>. Uno soltanto. Non siamo geni, sapete? Potete scegliere la vostra scintilla: resistenza ai veleni, protezione contro gli incantesimi, un barlume di fortuna contro bacchette ostili, un incanto contro trasformazioni imbarazzanti oppure... un po' di vigore contro un alito di drago davvero cattivo? Scegliete bene, <CHARNAME>: persino i piccoli desideri possono fare grandi cose.~
+@4871 = ~Preferirei essere al riparo da veleni e malattie.~
+@4872 = ~Forse qualcosa che mi aiuti a resistere agli incantesimi.~
+@4873 = ~Un po' di resistenza a bacchette e dispositivi magici non farebbe male.~
+@4874 = ~Mi farebbe comodo una protezione dalle trasformazioni innaturali.~
+@4875 = ~Forse qualcosa che mi aiuti a superare un pericolo... come il soffio di un drago.~
+@4876 = ~^0xFFE3B0FF Lilafern: ^-Scelta saggia! Non muovetevi: non farà molte scintille... oppure sì.~
+@4877 = ~^0xFF9ADCE3 Tippledew: ^-Fatto! Uno spruzzo di saliva, un pizzico di risate e una spruzzata di "per-favore-non-morire".~
+@4878 = ~^0xFFE3B0FF Lilafern: ^-Guarda, Tippledew! Un umano goffo!~
+@4879 = ~^0xFF9ADCE3 Tippledew: ^-Oh, silenzio, Lilafern! È qualcuno in cerca d'avventure, sciocchina! Lo si capisce sempre dalla <PRO_HISHER> espressione feroce.~
+@4880 = ~^0xFF9ADCE3 Tippledew: ^-La Valle di Duskwood vi dà il benvenuto, gambelunghe!~
+@4881 = ~Chi siete?~
+@4882 = ~Chi sta parlando?~
+@4883 = ~^0xFFE3B0FF Lilafern: ^-Gambelunghe è di ritorno... e vedo che non brilla ancora per niente!~
+@4884 = ~^0xFFE3B0FF Lilafern: ^-Siamo le Gemelle Luce di Duskwood, custodi delle risatine notturne e guardiane di... be', nulla di terribilmente importante.~
+@4885 = ~Gemelle Luce di Duskwood?~
+@4886 = ~Sì, ma che cosa siete? Due puntini luminosi?~
+@4887 = ~^0xFF9ADCE3 Tippledew: ^-Un nome appropriato, non trovate? Rendiamo luminosa la Valle di Duskwood!~
+@4888 = ~^0xFFE3B0FF Lilafern: ^-Perché rallegriamo la Valle non soltanto alla luce del giorno, naturalmente.~
+@4889 = ~^0xFFE3B0FF Lilafern: ^-Siamo fate, sciocchino! Troppo piccole per i vostri occhi, troppo veloci per le vostre mani.~ ~^0xFFE3B0FF Lilafern: ^-Siamo fate, sciocchina! Troppo piccole per i vostri occhi, troppo veloci per le vostre mani.~
+@4890 = ~^0xFF9ADCE3 Tippledew: ^-La Valle di Duskwood è casa nostra! Qualcuno deve impedire a tutta questa gente amante della pace di addormentarsi.~
+@4891 = ~^0xFFE3B0FF Lilafern: ^-Dopotutto si chiama Valle di Duskwood, non Valle di Dull-swood!~
+@4892 = ~^0xFF9ADCE3 Tippledew: ^-Comunque. Siete qui per esprimere un desiderio o risolvere qualche indovinello?~
+@4893 = ~^0xFFE3B0FF Lilafern: ^-Un indovinello! Un gioco! Mettiamo alla prova il vostro cervello, gambelunghe!~
+@4894 = ~^0xFF9ADCE3 Tippledew: ^-Oh sì! Gli indovinelli sono come le scintille: rivelano chi è opaco!~
+@4895 = ~^0xFFE3B0FF Lilafern: ^-Avete già dimenticato? Avete vinto, ricordate? Niente altri indovinelli, per ora.~
+@4896 = ~^0xFF9ADCE3 Tippledew: ^-Almeno per un po'.~
+@4897 = ~^0xFFE3B0FF Lilafern: ^-Ascoltate allora, viandante della Valle:
+	"Non sono vivo, eppure cresco.  
+	Non ho polmoni, eppure ho bisogno d'aria.  
+	Non ho bocca, eppure l'acqua mi uccide.  
+	Che cosa sono?"~
+@4898 = ~Sicuramente un fungo.~
+@4899 = ~State parlando del fuoco.~
+@4900 = ~Un'ombra, forse?~
+@4901 = ~Un cubo gelatinoso.~
+@4902 = ~È una domanda stupida. Nessuna di queste cose esiste.~
+@4903 = ~^0xFFE3B0FF Lilafern: ^-Fuoco?! ...Fuoco, <PRO_HESHE> ha detto fuoco!~
+@4904 = ~^0xFF9ADCE3 Tippledew: ^-Non vale!~
+@4905 = ~^0xFFE3B0FF Lilafern: ^-Abbiamo passato un'ora a perfezionare quell'indovinello!~
+@4906 = ~^0xFF9ADCE3 Tippledew: ^-La prossima volta chiederemo della metamagia o della psionica!~
+@4907 = ~^0xFFE3B0FF Lilafern: ^-E va bene! Avete vinto... ma soltanto grazie alla vostra altezza.~
+@4908 = ~^0xFFE3B0FF Lilafern: ^-Oh, risposta deliziosa! Completamente sbagliata, ma deliziosa!~
+@4909 = ~^0xFF9ADCE3 Tippledew: ^- Adoriamo la sicurezza quasi più della precisione!~
+@4910 = ~^0xFFE3B0FF Lilafern: ^-Riprovate prima che cominciamo a darvi degli *indizi* che peggiorano tutto.~
+@4911 = ~D'accordo, riproverò.~
+@4912 = ~Basta indovinelli, per ora.~
+@4913 = ~^0xFFE3B0FF Lilafern: ^-Oh, uno scettico! Quanto è *rinfrescante!*~ ~^0xFFE3B0FF Lilafern: ^-Oh, una scettica! Quanto è *rinfrescante!*~
+@4914 = ~^0xFF9ADCE3 Tippledew: ^-Facciamo comunque il solletico a <PRO_HIMHER>, giusto per ristabilire l'equilibrio!~
+@4915 = ~^0xFFE3B0FF Lilafern: ^-No, no, <PRO_HESHE> è divertente. Terremo <PRO_HIMHER> per altri indovinelli più tardi.~
+@4916 = ~^0xFFE3B0FF Lilafern: ^-Oh! Niente altri indovinelli? Che tragedia!~
+@4917 = ~^0xFFE3B0FF Lilafern: ^-Vieni, Tippledew... troviamo qualcuno che apprezzi la confusione!~
+@4918 = ~^0xFFE3B0FF Lilafern: ^-D'accordo, allora un altro indovinello! Ascoltate attentamente:
+"Nei sotterranei attendo con pazienza.
+Divoro chi avanza con troppa ingordigia.
+Siate audaci, avvicinatevi,
+e vedrete cosa resta:
+brillo come oro,
+e il mio prezzo si paga in dita.  
+Che cosa sono?"~
+@4919 = ~Un fantasma, forse?~
+@4920 = ~Un doppelganger.~
+@4921 = ~Un'eco.~
+@4922 = ~Un mimic.~
+@4923 = ~Non ha senso. Ve lo siete appena inventato.~
+@4924 = ~^0xFF9ADCE3 Tippledew: ^-No, <PRO_HESHE> lo sapeva... <PRO_HESHE> lo sapeva davvero!~
+@4925 = ~^0xFFE3B0FF Lilafern: ^-Doveva essere impossibile da risolvere!~
+@4926 = ~^0xFF9ADCE3 Tippledew: ^-Avete corrotto un mind flayer per farvi dare le risposte?~
+@4927 = ~^0xFFE3B0FF Lilafern: ^-E va bene, <PRO_RACE> dall'ingegno acuto. Avete vinto di nuovo. Ma la prossima volta lo faremo rimare in Draconico!~
+@4928 = ~^0xFF9ADCE3 Tippledew: ^-Adoriamo la sicurezza quasi più della precisione!~
+@4929 = ~^0xFFE3B0FF Lilafern: ^-Riprovate prima che cominciamo a darvi indizi *terribili*.~
+@4930 = ~Ne ho abbastanza dei vostri indovinelli.~
+@4931 = ~^0xFFE3B0FF Lilafern: ^-Prendere in giro chi fa la domanda? Mossa audace!~
+@4932 = ~^0xFF9ADCE3 Tippledew: ^-Facciamo comunque il solletico a <PRO_HIMHER>, giusto per divertirci!~
+@4933 = ~^0xFFE3B0FF Lilafern: ^-Vedremo se <PRO_HESHE> ride facendo eco.~
+@4934 = ~^0xFF9ADCE3 Tippledew: ^-Un'altra sfida! L'indovinello del fango e della maestà!~
+@4935 = ~^0xFFE3B0FF Lilafern: ^-Ascoltate bene, viandante:  
+"Vivo in silenzio e canto con la pioggia.  
+Salto senza paura e non mi lagno mai.  
+Ho una corona di fango e per trono una palude.  
+Baciatemi e vi trasformerete in una...?"~
+@4936 = ~^0xFF9ADCE3 Tippledew: ^-Scegliete bene! Il bacio sbagliato può durare per sempre!~
+@4937 = ~Un cane.~
+@4938 = ~Un maiale.~
+@4939 = ~Una rana.~
+@4940 = ~Un vampiro.~
+@4941 = ~^0xFFE3B0FF Lilafern: ^-Rana! <PRO_HESHE> ha davvero detto rana!~
+@4942 = ~^0xFF9ADCE3 Tippledew: ^-Incredibile!~
+@4943 = ~^0xFFE3B0FF Lilafern: ^-E va bene, <PRO_RACE> dall'ingegno acuto, avete vinto. Di nuovo. Smettetela di avere ragione, è irritante.~
+@4944 = ~^0xFF9ADCE3 Tippledew: ^-La prossima volta chiederemo qualcosa d'impossibile. Tipo le abitudini d'accoppiamento dei flumph.~
+@4945 = ~^0xFFE3B0FF Lilafern: ^-Oh, meraviglioso! Completamente fuori strada, ma con tanta sicurezza!~
+@4946 = ~^0xFF9ADCE3 Tippledew: ^-Adoriamo l'entusiasmo quasi quanto la precisione!~
+@4947 = ~^0xFFE3B0FF Lilafern: ^-Riprovate prima che cominciamo a baciare risposte a caso!~
+@4948 = ~^0xFFE3B0FF Lilafern: ^-Un vampiro?! Bleah! Labbra fredde e nessun senso della rima!~
+@4949 = ~^0xFF9ADCE3 Tippledew: ^-Immaginate i segni dei morsi!~
+@4950 = ~^0xFFE3B0FF Lilafern: ^-E i loro specchi non funzionano mai!~
+@4951 = ~^0xFF9ADCE3 Tippledew: ^-Davvero la forma più triste d'immortalità. Oh, e prima che vi entusiasmiate troppo: naturalmente era la risposta sbagliata al nostro indovinello.~
+@4952 = ~Quanto è banale.~
+@4953 = ~^0xFF9ADCE3 Tippledew: ^-D'accordo! Un ultimo indovinello, la prova suprema dell'ingegno mortale!~
+@4954 = ~^0xFFE3B0FF Lilafern: ^-Oh, meraviglioso! Avanti allora, Tippledew... abbaglia <PRO_HIMHER> con la tua genialità!~
+@4955 = ~^0xFF9ADCE3 Tippledew: ^-Io? Credevo che *tu* ne avessi preparato uno!~
+@4956 = ~^0xFFE3B0FF Lilafern: ^-Io? No. Devi inventarti qualcosa!~
+@4957 = ~^0xFF9ADCE3 Tippledew: ^-Lo sto facendo! Sto pensando ad altissima voce!~
+@4958 = ~^0xFFE3B0FF Lilafern: ^-Non devi pensare ad alta voce... devi pensare più in fretta!~
+@4959 = ~^0xFF9ADCE3 Tippledew: ^-...~
+@4960 = ~^0xFFE3B0FF Lilafern: ^-Uff, va bene. Ci arrendiamo.~
+@4961 = ~^0xFF9ADCE3 Tippledew: ^-Sì! <PRO_RACE> vince ancora!~
+@4962 = ~^0xFF9ADCE3 Tippledew: ^-Cospargiamo <PRO_HIMHER> di scintille. O magari di polvere fatata.~
+@4963 = ~^0xFFE3B0FF Lilafern: ^-Polvere dei Folletti, sì! <CHARNAME> merita una ricompensa per tanta astuzia!~
+@4964 = ~^0xFF9ADCE3 Tippledew: ^-Esatto! Ecco, prendete un po' della nostra Polvere dei Folletti... ma non strofinatevela negli occhi, d'accordo?~
+@4965 = ~^0xFF9ADCE3 Tippledew: ^-Vicino alla vostra faccia? Ma la vostra faccia è così *poco scintillante*!~
+@4966 = ~^0xFFE3B0FF Lilafern: ^-Ha bisogno d'aiuto! Intervento scintillante d'emergenza!~
+@4967 = ~^0xFFE3B0FF Lilafern: ^-Vieni, Tippledew... avvia il protocollo di ritirata scintillante!~
+@4968 = ~^0xFF9ADCE3 Tippledew: ^-Attenzione, viandante... se smettiamo di scintillarvi vicino alla faccia, chi terrà lontani i vostri brutti sogni?~
+@4969 = ~^0xFF9ADCE3Tippledew: ^-Un desiderio?! Hai sentito, Lilafern? Un *desiderio*!~
+@4970 = ~^0xFFE3B0FF Lilafern: ^-Presto, dove abbiamo messo i documenti? I moduli? I regolamenti sui miracoli improbabili?!~
+@4971 = ~^0xFF9ADCE3Tippledew: ^-Shh! Stasera siamo fuori servizio. L'ultimo desiderio che abbiamo esaudito ha trasformato un rospo in... un rospo più piccolo e viscido.~
+@4972 = ~^0xFFE3B0FF Lilafern: ^-Una gran confusione per tutti.~
+@4973 = ~^0xFF9ADCE3Tippledew: ^-Però! Se desiderate risate o chiaro di luna, possiamo occuparcene. Ne abbiamo in eccedenza.~
+@4974 = ~^0xFFE3B0FF Lilafern: ^-Per qualsiasi cosa più grande dovrete parlare con la nostra superiore. Eldath, ovviamente. Però è terribile con gli appuntamenti.~
+@4975 = ~^0xFFE3B0FF Lilafern: ^-E va bene, passate oltre. Camminate piano, gambelunghe: l'erba ricorda i passi.~
+@4976 = ~^0xFF9ADCE3 Tippledew: ^-Tornate quando avrete meno fretta. A noi piacciono le conversazioni che girano in tondo.~
+@4977 = ~Osate attaccarrre me? Me?~
+@4978 = ~Sciocco morrrtale! Un'altra anima perrr la mia collezione!~ ~Sciocca morrrtale! Un'altra anima perrr la mia collezione!~
+@4979 = ~Avete acquistato la pergamena del Desiderio! Le mie congrrratulazioni perrr un acquisto tanto rrraro. Prima che andiate, un piccolo dettaglio... peraltro piuttosto currrioso.~
+@4980 = ~L'inchiostrrro della pergamena è... volatile, diciamo. Conserva il suo poterrre soltanto perrr poco tempo dopo l'acquisto. Perdonatemi, potrrrei averrr dimenticato di menzionarlo. Chiamatemi avarrro, ma dopotutto sono un merrrcante, sì? Meglio usarla finché la magia è ancora sveglia. Che senso ha un desiderio mai espresso?~
+@4981 = ~Avanti, prrrovatela qui, subito! Parole semplici, intenzione chiara: non occorrre altro. E se la gioia dovesse lasciarrrvi senza parole... rrricordate chi ha rrreso tutto possibile: io!~
+@4982 = ~Mi avete ingannato. Avreste dovuto dirmelo prima!~
+@4983 = ~Se lo dite voi...~
+@4984 = ~Oh, nessun inganno, parola mia! La pergamena funziona esattamente come immaginate. Ho soltanto... omesso un dettaglio minorrre. Perdonate a un merrrcante i suoi piccoli segreti.~
+@4985 = ~Lo dico eccome! Perché un merrrcante di successo come me dovrrrebbe mai ingannarrrvi?~
+@4986 = ~Ecco qualcuno con gusto e denarrro! Mille volte vi do il benvenuto. Tratto currriosità e comodità, gingilli e tentazioni... tutto perrrfettamente innocuo, naturalmente.~
+@4987 = ~Mostratemi che cosa avete in vendita.~
+@4988 = ~Avete uno strano accento.~
+@4989 = ~Tenete nel vostro negozio oggetti piuttosto insoliti.~
+@4990 = ~Che cosa vendete?~
+@4991 = ~No, grazie. Sto soltanto passando.~
+@4992 = ~Allora, comprrrerete qualcosa, dopotutto?~
+@4993 = ~Insoliti? Io prrreferisco *rrrari*!~
+@4994 = ~La strrranezza vende, ve l'assicuro. Le cose orrrdinarie hanno appetiti così noiosi. Tuttavia ammirrro il vostro occhio: la maggiorrr parte della gente passa senza notarrre nulla.~
+@4995 = ~Con piacerrre! Avvicinatevi, non siate timido. Nel merrrcato del destino, l'esitazione è l'abitudine più costosa.~ ~Con piacerrre! Avvicinatevi, non siate timida. Nel merrrcato del destino, l'esitazione è l'abitudine più costosa.~
+@4996 = ~Come volete, viandante. La strrrada non dimentica alcun passo... e la mia merrrce non dimentica alcuno sguardo.~
+@4997 = ~Una domanda graditissima! Tratto oggetti currriosi e inconsueti, cose di cui non sapevate di averrr bisogno finché non le vedete.~
+@4998 = ~Ma fra simili gingilli vi è un tesorrro di autentica leggenda: una pergamena di *Desiderio*!~
+@4999 = ~Sssì, avete sentito bene: *Desiderio*! L'incantesimo che piega l'orecchio del fato stesso. L'ho ottenuta con un patto con un djinni del Deserto di Calim.~
+@5000 = ~Mi disse che avrrrebbe rrrisposto a qualunque voce avesse osato comandarrla. Nessuno studio noioso, nessun cerchio di rrrune... soltanto il corrraggio di pronunciare ad alta voce ciò che desidera il proprio cuorrre. Naturalmente la pergamena ha un prrrezzo: anch'io devo avere la mia parrrte! Ma un errroe come voi merrrita sicuramente di tentarrre il destino almeno una volta, no?~ ~Mi disse che avrrrebbe rrrisposto a qualunque voce avesse osato comandarrla. Nessuno studio noioso, nessun cerchio di rrrune... soltanto il corrraggio di pronunciare ad alta voce ciò che desidera il proprio cuorrre. Naturalmente la pergamena ha un prrrezzo: anch'io devo avere la mia parrrte! Ma un'errroina come voi merrrita sicuramente di tentarrre il destino almeno una volta, no?~
+@5001 = ~Una pergamena di Desiderio, dite? Sembra troppo bella per essere vera.~
+@5002 = ~Fatemi vedere quella pergamena.~
+@5003 = ~No, grazie. Mi terrò le risate imbottigliate.~
+@5004 = ~Troppo bella perrr essere verrra? Ma la verrrità non è mai stata la misura del valore, no? Ciò che conta è che funzioni.~
+@5005 = ~Dubitate, eppure state ancora ascoltando. È il segno di chi sa fare acquisti con giudizio. Facciamo così: date un'occhiata di perrrsona alla scrrrittura. Le parole sono semplici, quasi infantili. Persino il fato apprezza uno scherzo, di tanto in tanto.~
+@5006 = ~Davverrro? L'avete notato? Una lingua dei merrrcanti del Sud, un miscuglio di corrrte calishita e vento del deserto. Alcuni la chiamano esotica... altrrri inquietante. Ma gli accenti, come i volti, sono soltanto maschere, amico mio.~ ~Davverrro? L'avete notato? Una lingua dei merrrcanti del Sud, un miscuglio di corrrte calishita e vento del deserto. Alcuni la chiamano esotica... altrrri inquietante. Ma gli accenti, come i volti, sono soltanto maschere, amica mia.~
+@5007 = ~Ora, parliamo di merrrce, non di parole?~
+@5008 = ~Quell'accento... ne ho già sentito parlare. Un mercante con la vostra voce ha preso due fate dalla foresta.~
+@5009 = ~D'accordo, vediamo la vostra merce.~
+@5010 = ~Fate? Che cosa pittoresca. Viaggiate lontano e le vostre storie viaggiano ancora più lontano. Non vorrrrete certo accusare *me* di... collezionare insetti nei barrrattoli?~
+@5011 = ~Ma se trovate creature simili, portatele da me! Pago bene perrr le rrrarità.~
+@5012 = ~Eravate voi! Consegnatemi le fate... subito!~
+@5013 = ~Molto bene, se lo dite voi. Allora me ne vado.~
+@5014 = ~Dunque la rrrecita è finita. Che peccato... mi stavo godendo la farrrsa. Voi morrrtali predicate sempre di giustizia... eppure nei vostri occhi brilla la stessa avidità che c'è nei miei.~
+@5015 = ~Molto bene. Avanti, allora... venite a rrreclamare la vostra rrricompensa!~

@@ -1,0 +1,1257 @@
+
+// cre files
+@10 = ~Merethan~
+@11 = ~Delgorth~
+@12 = ~Sacerdote di Eldath~
+@13 = ~Alatoasz Berendim~
+@14 = ~Peacefang~
+@15 = ~Quietbrook~
+@16 = ~Fratello Gentleswarm~
+@17 = ~Fanciulla della Grotta~
+@18 = ~Treant Zombi~
+@19 = ~Sorella Irinwe~
+@20 = ~Fuoco Fatuo~
+@21 = ~Erlavanas Myth'yalv~
+@22 = ~Fuoco della Piaga~
+@23 = ~Wadal Hrun~
+@24 = ~Henry~
+@25 = ~Na'arla~
+@26 = ~Fratello Edrim~
+@27 = ~Montrassa~
+@28 = ~Manifestazione del Veleno~
+@29 = ~Larrin~
+@30 = ~Zia Pesca~
+@31 = ~Fratello Calmfire~
+@32 = ~Ankheg della Piaga~
+@33 = ~Novizio~
+@34 = ~Peaceman~
+@35 = ~Skann Delth~
+@36 = ~Naerwyn~
+@37 = ~Zombi di Fango~
+@38 = ~Vipera~
+@39 = ~Guardiano Arboreo~
+@40  = ~Debbie Gobblebubble~
+@41 = ~Elementale della Terra Sepolcrale~
+@42 = ~Antico Amniote di Sangue~
+@43 = ~Pozza di Sangue~
+@44 = ~Ankheg Ipnotizzato~
+@45 = ~Mismal Al'Visalle~
+@46 = ~L'Imperituro~
+@47 = ~Spirito Intriso di Sangue~
+@48 = ~Simbionte Raccapricciante~
+@49 = ~Spirito elfico~
+@50 = ~Anomalia d'Ossa~
+@51 = ~Mythrien Sarath~
+@52 = ~Arciere Yuan-ti~
+@53 = ~Scorpione~
+@54 = ~Fratello Calmor~
+@55 = ~Fratello Stillnor~
+@56 = ~Varric Redscar~
+@57 = ~Incarnazione del Veleno~
+@58 = ~Chasme~
+@59 = ~Anomalia del Veleno~
+@60 = ~Albero Caduto~
+@61 = ~Elv-Esster Aened~
+@62 = ~Fuoco Morto~
+@63 = ~Fuoco Selvaggio~
+@64 = ~Maddlethorpe Vemmil~
+@65 = ~Wimpley Ulvax~
+@66 = ~Edvarr Nolthune~
+@67 = ~Carven~
+@68 = ~Mannatarv~
+@69 = ~Gemelle Luce di Duskwood~
+@70 = ~Zar’khaan~
+@71 = ~Lhiannan Shee~
+@72 = ~Allip~
+@73 = ~Hezrou~
+@74 = ~Uomo in Attesa~
+@75 = ~Uomo in Attesa~
+@76 = ~Fratello Elonar~
+@77 = ~Fratello Meyndel~
+@78 = ~Fratello Thalen~
+@79 = ~Custode del Giorno~
+@80 = ~Custode della Notte~
+@81 = ~Spirito di Elv-Esster Aened~
+@82 = ~Anomalia d'Ossa Minore~
+@83 = ~Donna Malata~
+@84 = ~Zalyndar~
+
+
+// cre soundfiles
+@301 = ~Che la pace cammini con voi.~ [AC#PPEL1]
+@302 = ~Lasciate che la calma guidi la vostra mano.~ [AC#PPEL2]
+@303 = ~Eldath osserva. Anche nel silenzio.~ [AC#PPEL3]
+@304 = ~Cammino dove l'acqua riposa.~ [AC#PPEL4]
+@305 = ~Dove le parole falliscono, la quiete può guarire.~ [AC#PPEL5]
+@306 = ~Deponete le vostre paure, anche soltanto per un poco.~ [AC#PPEL6]
+@307 = ~Pace a voi, viandante.~ [AC#PPEL7]
+@308 = ~Spero di portare pace... un giorno.~ [AC#PPEL8]
+@309 = ~~ [AC#PPELZ]
+
+@310 = ~Eldath osserva. Anche nel silenzio.~ [AC#PPELA]
+@311 = ~Deponete le vostre paure, anche soltanto per un poco.~ [AC#PPELB]
+@312 = ~Le terre selvagge sussurrano calma a chi sa ascoltare.~ [AC#PPELC]
+@313 = ~Nessuna lama può guarire ciò che il tempo e la gentilezza possono sanare.~ [AC#PPELD]
+@314 = ~Non lasciate che sia l'ira a guidare la vostra mano, ma la misericordia.~ [AC#PPELE]
+@315 = ~Noi non colpiamo... ma resistiamo.~ [AC#PPELF]
+@316 = ~Le benedizioni di Eldath siano su di voi e sui sentieri silenziosi che percorrete.~ [AC#PPELG]
+
+@325 = ~I venti non portano cattive intenzioni. E neppure io.~ [AC#PPELL]
+@326 = ~Come cadono le foglie, così possano cadere i vostri fardelli.~ [AC#PPELM]
+@327 = ~Pace a voi, viandante.~ [AC#PPELN]
+@328 = ~Spero di portare pace... un giorno.~ [AC#PPELO]
+
+@330 = ~Custodisco quel poco che rimane.~ [AC#PPMYB]
+@331 = ~Frammenti di gloria indugiano ancora.~ [AC#PPMYA]
+@332 = ~Mythal infranti, non dimenticati.~ [AC#PPMYC]
+
+@341 = ~Che la pace cammini con voi.~ [AC#PPED1]
+@342 = ~Lasciate che la calma guidi la vostra mano.~ [AC#PPED2]
+@343 = ~Eldath osserva. Anche nel silenzio.~ [AC#PPED3]
+@344 = ~Cammino dove l'acqua riposa.~ [AC#PPED4]
+@345 = ~Dove le parole falliscono, la quiete può guarire.~ [AC#PPED5]
+@346 = ~Deponete le vostre paure, anche soltanto per un poco.~ [AC#PPED6]
+@347 = ~Pace a voi, viandante.~ [AC#PPED7]
+@348 = ~Spero di portare pace... un giorno.~ [AC#PPED8]
+
+@351 = ~Vi do il benvenuto nel mio umile favo.~ [AC#PPHO1]
+@352 = ~La vita è più dolce quando trovate la combinazione favo-losa.~ [AC#PPHO2]
+@353 = ~Una goccia di miele può guarire dove un torrente di sale sa soltanto ferire.~ [AC#PPHO3]
+
+@360 = ~*tosse*~ [AC#PPCH1]
+@361 = ~*tosse*~ [AC#PPCH2]
+@362 = ~*tosse*~ [AC#PPCH3]
+
+@371 = ~~ [AC#PPFY1]
+@372 = ~~ [AC#PPFY2]
+@373 = ~~ [AC#PPFY3]
+@374 = ~~ [AC#PPFY4]
+@375 = ~~ [AC#PPFY5]
+
+// spl files
+@900 = ~Divinazione dell'Acqua~
+@901 = ~~
+@902 = ~Guizzo del Fuoco Fatuo~
+@903 = ~Magia Selvaggia~
+@904 = ~Nube di Pestilenza~
+@905 = ~Protezione dagli Animali~
+@906 = ~Silenzio di Eldath~
+@907 = ~^0xFF22B4E6ha guadagnato 1 Punto Ferita Massimo. ^-~
+@908 = ~^0xFF22B4E6ha guadagnato 2 Punti Ferita Massimi. ^-~
+
+@910 = ~Bacio di Talona~
+@911 = ~Ronzio del Sonno~
+@912 = ~Sudario della Morte~
+@913 = ~Presenza Lenitiva di Eldath~
+@914 = ~Eruzione di Magia Selvaggia~
+@915 = ~Velo d'Ombra~
+@916 = ~Risata Maniacale~
+@917 = ~Globo d'Oscurità~
+@918 = ~Eldath vi concede serenità in presenza di bestie pacifiche.~
+
+@920 = ~^0xFF22B4E6ha guadagnato +1% di Resistenza al Danno Tagliente. ^-~
+@921 = ~^0xFF22B4E6ha guadagnato +1% di Resistenza al Danno da Proiettile. ^-~
+@922 = ~^0xFF22B4E6ha guadagnato +1% di Resistenza al Danno Perforante. ^-~
+@923 = ~^0xFF22B4E6ha guadagnato +1% di Resistenza al Danno Contundente. ^-~
+@924 = ~^0xFF22B4E6ha guadagnato +1% di Resistenza alla Magia. ^-~
+
+@930 = ~Fetore~
+@931 = ~THAC0 ridotto~
+
+@932 = ~Bonus permanente pari a +1 ai Tiri-salvezza contro Morte~
+@933 = ~Bonus permanente pari a +1 ai Tiri-salvezza contro Incantesimi~
+@934 = ~Bonus permanente pari a +1 ai Tiri-salvezza contro Bacchette~
+@935 = ~Bonus permanente pari a +1 ai Tiri-salvezza contro Pietrificazione/Metamorfosi~
+@936 = ~Bonus permanente pari a +1 ai Tiri-salvezza contro Soffio~
+
+@941 = ~Sussurro contro la Morte~ //~Save vs. death bonus~
+@942 = ~Barlume contro la Magia~ //~Save vs. spell bonus~
+@943 = ~Passo Scintillante contro le Bacchette~ // ~Save vs. wand bonus~
+@944 = ~Benedizione Mai-Rana~ // ~Save vs. polymorph bonus~
+@945 = ~Brezza contro la Tosse del Drago~ // ~Save vs. breath bonus~
+
+@946 = ~ha guadagnato 1 Punto Ferita temporaneo~
+
+@947 = ~Polvere Accecante~
+
+//sto files
+@950 = ~Tempio di Eldath~
+@951 = ~Pergamene di Calmfire~
+@952 = ~Taverna sulle Cime~
+@953 = ~Armi e Merci di Debbie~
+@954 = ~Intagliatore del Legno~
+@955 = ~Meraviglie di Zar’khaan~
+
+// itm files
+@1000 = ~Freccia Avvelenata~
+@1001 = ~Questa freccia è ricoperta da un pericoloso veleno che non può essere rimosso con mezzi ordinari. Dovete portarla ad Alatoasz Berendim nella Valle di Duskwood, il sacro santuario di Eldath, affinché il veleno possa essere studiato e si possa risalire alla sua origine.~
+@1002 = ~Digitale del Bosco~
+@1003 = ~La Digitale del Bosco è una pianta da fiore eccezionalmente rara, le cui campanelle cerose, simili a quelle della digitale, sbocciano in tonalità cangianti che vanno dal viola intenso al rosa pallido. Cresce soltanto in antichi boschetti elfici saturi di magia, spesso presso tranquille pozze sorgive o entro i confini di un mythal.
+
+Una sola goccia della sua linfa è sufficiente a uccidere un adulto oppure, in mani esperte, a creare una cura per afflizioni altrettanto letali. I druidi considerano la pianta con sentimenti contrastanti, vedendola al tempo stesso come parte naturale dell'equilibrio del mondo e come monito che persino i doni più belli della natura possono essere mortali.
+
+Dovete consegnare uno di questi fiori ad Alatoasz Berendim nella Valle di Duskwood.~
+@1004 = ~Chiave Fungina~
+@1005 = ~Questa chiave è ricoperta di sudiciume e strane spore. Sembra aprire un tipo di porta molto particolare.~
+@1006 = ~Biglietto del Fornitore~
+@1007 = ~Skann, ho bisogno che tu consegni una grossa partita del mio prodotto a diverse parti interessate. Incontriamoci nel luogo segnato alla Conca dei Funghi. Distruggi questo biglietto, così che non cada nelle mani sbagliate.
+
+Delgorth~
+@1008 = ~Keltormir, l'Impero Caduto~
+@1009 = ~Keltormir, l'Impero Caduto
+di Elenneth Moonsyl, Saggia di Evereska
+
+"Ogni foresta ricorda. Anche quando gli alberi cadono e i canti svaniscono, le radici conservano la memoria."
+
+Nei giorni più antichi di Toril, molto prima dell'ascesa del Calimshan o del Tethyr, l'antico impero silvano di Keltormir si estendeva sul sud di Faerûn. Fondato nella venerazione dei Seldarine e in armonia con la natura, il regno degli elfi viveva in perfetta comunione con la terra che lo circondava.
+
+Fra le eredità più durature di Keltormir vi erano le sue tre città protette da mythal, ciascuna un faro della magia e della cultura elfiche; ciascuna ormai sbiadita e caduta: Myth Rhynn, Myth Unnohyr e Myth Tellaren.
+
+Myth Rhynn
+Nascosta nelle profondità dei Boschi Mytharan, tra le ombre del Wealdath, sorge Myth Rhynn, una necropoli sacra degli elfi. Il suo mythal, a differenza di quelli delle altre città elfiche, fu intessuto per concedere ai defunti un riposo eterno. Ma il mythal è spezzato. Per l'età o per una profanazione, non trattiene più i morti nelle tombe. Ora i non morti vagano tra gli antichi sepolcri e spiriti inquieti si levano al crepuscolo. Persino gli elfi che un tempo venivano a onorare i propri antenati ora evitano il luogo, poiché i fili spezzati del mythal stringono loro il cuore. Quello che un tempo era un sacro luogo di riposo è divenuto una sorgente di non morte.
+
+Myth Unnohyr
+Myth Unnohyr sorgeva nelle valli ombrose delle foreste meridionali di Keltormir. La sua magia nutriva la crescita e un legame profondo con la natura. Molto tempo fa, tuttavia, il suo mythal cominciò a disfarsi. Quando la sua possente protezione svanì, il mythal si contorse su sé stesso, dando vita a una regione di magia selvaggia e magia morta che perdura ancora oggi. Pochi osano ormai entrare in quelle rovine, dove la magia morta penetra nel terreno e l'aria avvelenata è squarciata da ondate irrequiete e indomite.
+
+Myth Tellaren
+Molto più a sud, in terre ormai sepolte sotto le sabbie del deserto, sorgeva Myth Tellaren. Quando i signori-geni di Calim e Memnon si fecero guerra nel sud, il loro caos raggiunse i luoghi nascosti degli elfi. Il mythal di Myth Tellaren, sottoposto alla pressione dei geni, si frantumò. E con esso si spezzò la delicata magia che teneva la città sospesa. Alcuni credono che le rovine giacciano ancora sotto le dune erranti, per sempre congelate nell'istante del collasso magico, come braci sotto la cenere.
+
+Sebbene Keltormir sia ormai svanita nel mito, gli echi della sua grandezza perdurano. Ovunque si ergano alberi antichi e la magia canti, un tempo fioriva l'impero degli elfi. E forse, un giorno, risorgerà.~
+@1010 = ~Frammento di un Amuleto~
+@1011 = ~Questo è un frammento di un pendente che raffigura tre anelli dorati intrecciati, un simbolo sacro un tempo venerato da un antico guardiano elfico della magia e dell'unità. Sebbene incompleto, il frammento risuona ancora debolmente con il mythal corrotto di Myth Unnohyr. Tenendolo in mano, sentite le forze opprimenti attorno a voi attenuarsi leggermente. Tuttavia, senza l'amuleto completo, la sua protezione rimane inutile.~
+@1012 = ~Testa di un Elfo~
+@1013 = ~Questa è la testa mozzata di colui che un tempo doveva essere un elfo di straordinaria bellezza. Attorno al collo, ciocche di lunghi capelli serici rimangono strettamente avvolte, ancora aggrappate a lui nella morte. Sembra essere stato strangolato... non con una corda o un cappio, ma con i capelli di qualcuno.~  
+@1014 = ~Catena Dorata~
+@1015 = ~Questa è una catena d'oro finemente lavorata, creata con meticolosa cura e un tempo destinata a reggere uno splendido amuleto. Sebbene il medaglione stesso sia andato perduto con il trascorrere del tempo, la catena conserva una debole traccia residua del suo antico incantamento.~
+@1016 = ~Amuleto di Mythrien~
+@1017 = ~Forgiato durante la fondazione di Myth Unnohyr, questo talismano recava l'emblema di tre anelli intrecciati, simbolo di Mythrien Sarath, il dio elfico dei mythal ormai quasi dimenticato. 
+
+Sebbene secoli di rovina ne abbiano offuscato lo splendore, il talismano conserva una fragile eco del suo antico potere: mentre indossa questo amuleto, chi lo porta non subisce alcun effetto dalle ondate selvagge né dalle zone di magia morta del mythal infranto.
+
+Abilità durante l'uso: 
+– Immunità agli effetti delle zone di magia selvaggia e magia morta di Myth Unnohyr
+
+Peso: 0~
+@1018 = ~Collana della Vita~
+@1019 = ~Semplice nell'aspetto ma pervasa da un potere silenzioso, questa collana pulsa debolmente di energia. Sebbene le sue origini rimangano ignote, è spesso prediletta da guaritori, custodi della pace e da coloro che camminano dove indugia l'ombra della morte.
+
+STATISTICHE:
+
+Abilità durante l'uso: 
+– Punti Ferita Massimi: +8  
+
+Peso: 0~
+@1020 = ~Pozione della Pace~
+@1021 = ~Attinta da una delle sorgenti sacre di Eldath, questa bevanda offre ben più di un semplice ristoro. Chiunque la beva si sente rinnovato e colmo di nuova vitalità.
+
+STATISTICHE:
+
+Speciale: cura il veleno e le malattie, rimuove le maledizioni e guarisce 5 Punti Ferita
+
+Peso: 1~
+@1022 = ~Acqua Santa di Eldath~
+@1023 =~Questa è una caraffa di acqua santa di Eldath. È uno degli ingredienti necessari per creare un antidoto al veleno preparato dal sacerdote di Talona.
+  
+STATISTICHE:
+
+Peso: 1~
+@1024 = ~Attacco del Fuoco Fatuo~
+@1025 = ~Attacco del Fuoco della Piaga~
+
+@1030 = ~Anello dello Spettro~
+@1031 = ~Elmo~
+@1032 = ~Elmo dei Canti Elfici~
+@1033 = ~Questo elmo è noto come Elmo dei Canti Elfici. Forgiato da un maestro fabbro elfico, risuona delle antiche armonie del suo popolo. Quando viene indossato da un elfo, ne esalta i doni naturali e consente a chi lo porta di intonare un antico canto elfico che infonde forza tanto in lui quanto nei suoi alleati.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Protegge contro i colpi critici
+– Destrezza: +2 (solo elfi), +1 (solo mezzelfi)
+
+Abilità attivabili:
+– Canto una volta al giorno
+
+Peso: 0~
+
+@1037 = ~Pietra Ioun~
+@1038 = ~Pietra Ioun a Forma di Bacca~
+@1039 = ~Questa pietra ioun ha la forma di una bacca. Qualcuno deve aver usato la magia per darle questo aspetto.
+  
+STATISTICHE:
+
+Peso: 0~
+@1040 = ~Si ritiene che questa pietra ioun sia stata creata da un potente chierico di Talona. Modellata come una bacca verde e acerba, emana un odore aspro e pungente che permane sgradevolmente nell'aria.
+
+Alcuni seguaci di Talona usavano pietre come questa contro sacerdoti rivali, in particolare contro coloro che intralciavano le loro ambizioni intrise di veleno. Non sorprende che la pietra rifiuti di armonizzarsi con individui di allineamento buono.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– THAC0: +3 contro chierici
+
+Abilità speciali:
+– Quando viene trasportata o equipaggiata, questa pietra ioun dissolve i vapori velenosi che bloccano l'ingresso della torre di Myth Unnohyr
+
+Peso: 0~
+@1041 = ~Armatura di Cuoio Borchiato~
+@1042 = ~La Viverna Benedetta +3~
+@1043 = ~Questa armatura di cuoio borchiato è nota con il nome di Viverna Benedetta. Si ritiene che protegga chi la indossa conferendo a <PRO_HIMHER> capacità rigenerative. 
+  
+Alcuni sostengono che prenda il nome da una viverna chiamata Lucretia.
+  
+STATISTICHE:
+
+Abilità durante l'uso: 
+– Fortuna: +1
+– Rigenera 1 Punto Ferita per round
+
+Classe Armatura: 4 (2 contro danno tagliente, 3 contro danno perforante e da proiettile)
+Richiede:
+Forza 6
+Peso: 8~
+@1044 = ~Antidoto Celestiale~
+@1045 = ~Antidoto Celestiale~
+@1046 = ~Questo è l'antidoto che avete preparato nel calderone del seguace di Talona sotto Myth Unnohyr. Si dice che possa curare chi è stato colpito dalla potente tossina distillata dagli strani fiori che crescono fra queste rovine.
+  
+STATISTICHE:
+
+Peso: 1~
+@1047 = ~Mantello~
+@1048 = ~Abbraccio di Eldath~
+@1049 = ~Questo mantello incantato risale a un solitario sacerdote di Eldath che, in epoche remote, vagava per i boschetti del Wealdath. Gli uccelli nidificavano sul suo capo, i lupi vegliavano sul suo sonno e persino le creature più timide si avvicinavano per godere della sua presenza pacifica.
+Quando lasciò questo mondo, le driadi intrecciarono questo manto con le foglie cadute attorno al luogo del suo riposo. Chi lo indossa cammina avvolto in una quieta grazia.
+  
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: +2
+– Tiri-salvezza: +2
+– 5% di probabilità di lanciare Santuario quando chi indossa il mantello viene colpito in combattimento.
+– Quando vi sono animali entro 3 metri:
+ - Bonus addizionale pari a +1 alla Classe Armatura
+ - Bonus addizionale pari a +1 ai Tiri-salvezza
+ - Immunità alla Paura
+
+Peso: 3~
+@1050 = ~Fiore dell'Alveare Rosso~
+@1051 = ~Questo splendido fiore dal dolce profumo è un dono che un ragazzo della Valle di Duskwood vuole far recapitare a sua zia nel Distretto Governativo di Athkatla. Vi chiede di consegnarle il fiore insieme a un messaggio: sta bene e ha semplicemente bisogno di trascorrere un po' di tempo lontano da lei.
+
+STATISTICHE:
+Peso: 1~
+@1052 = ~Lombrico~
+@1053 = ~Questo lombrico odora di terra bagnata e... zucche. È di un rosa acceso e si dimena con grande vivacità. A parte questo, non ha nulla di insolito.
+  
+STATISTICHE: 
+
+Peso: 0~
+@1054 = ~Emblema~
+@1055 = ~Simbolo Sacro di Eldath~
+@1057 = ~Questo è un semplice emblema che raffigura il simbolo di Eldath. Per quanto modesto nell'aspetto, offre protezione a coloro che onorano la dea della pace. La sua influenza allontana sottilmente chi lo porta dall'aggressività, rafforzandone le difese ma smorzandone l'impulso a colpire.
+  
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: +1
+– Tiri-salvezza: +1
+– THAC0: -2
+
+Peso: 0~
+@1058 = ~Frammento di Scudo~
+@1059 = ~Sembra essere la parte centrale di uno scudo. Senza la cornice esterna, tuttavia, è inutilizzabile.
+  
+STATISTICHE:
+
+Peso: 0~
+@1060 = ~Sembra essere la parte centrale di uno scudo. Senza la cornice esterna, tuttavia, è inutilizzabile.
+  
+STATISTICHE:
+
+Peso: 0~
+@1061 = ~Sembra essere la cornice esterna di uno scudo. Senza la sua parte centrale, tuttavia, è inutilizzabile.
+  
+STATISTICHE:
+
+Peso: 0~
+@1062 = ~Buckler~
+@1063 = ~Il Leafrunner +3~
+@1064 = ~Questo elegante buckler appartenne un tempo a una druida guardiana di nome Blasanna Leafrunner, dalla quale prende il nome. Quando una banda da guerra di gnoll minacciò il suo boschetto e la sua gente, Blasanna li affrontò da sola. Le leggende narrano che si muovesse con la rapidità di un vento di tempesta, abbattendo metà degli invasori prima che gli altri fuggissero terrorizzati.
+
+Alcuni sostengono che la sua velocità provenisse dal buckler stesso, la cui magia le conferiva la grazia delle terre selvagge. Altri credono invece che fosse lo spirito stesso della foresta a sospingerla, deciso a non lasciare cadere la propria protettrice.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: +4
+– Nessuna protezione contro attacchi con armi perforanti e da lancio
+– Fattore-movimento aumentato di 1; aumentato di 2 nelle foreste
+– Tiri-salvezza contro incantesimi della scuola di Invocazione: +2
+
+Richiede:
+Forza 4
+Peso: 2~
+@1065 = ~Infuso d'Erbe in una Tazza~
+@1066 = ~Questo infuso è preparato con camomilla, miele selvatico, more e lavanda. Dovrebbe calmare gli animi. Dovete portarlo alla Sirine presso l'acqua nella Valle di Duskwood, affinché possa ritrovare la pace.
+  
+STATISTICHE: 
+
+Peso: 2~
+@1067 = ~Nota di Delgorth~
+@1068 = ~Prima annotazione:
+La Digitale del Bosco... le leggende erano vere. Fiorisce ancora fra i resti infranti di Myth Unnohyr. Talona sorride alla mia scoperta!
+
+Seconda annotazione:
+Con estenuante fatica, ho distillato le prime dosi della tossina. Ne ho ottenute soltanto piccole quantità, ma ciascuna porta una morte rapida e certa.
+
+Terza annotazione:
+La mia prima partita è andata ai nemici degli Arpisti. Principi ambiziosi, mercenari vendicativi e altri ancora con vecchi conti da regolare. Che quei presuntuosi soffochino nella loro stessa virtù!
+
+Quarta annotazione:
+I Coltelli della Notte di Westgate hanno mostrato interesse per il mio veleno. Gli Zhentarim hanno chiesto un campione per verificarne la potenza. Devo fare attenzione a chi affido il mio capolavoro.
+
+Quinta annotazione:
+Sono riuscito a coltivare alcuni fiori nel terreno morto, ma crescono lentamente e producono soltanto pochi boccioli. Ci vorranno anni per raccogliere abbastanza veleno per i miei piani. Devo trovare il modo di accelerarne la crescita!
+
+Sesta annotazione:
+Un sacerdote di Eldath ha cercato di porre fine alla mia opera ed è diventato un'altra vittima del mio veleno. Altri seguiranno. 
+
+Che i forti cadano e i deboli periscano. Solo la corruzione è eterna!
+
+— Malagent Delgorth
+~
+@1075 = ~Headband~
+@1076 = ~Aureola di Sangue Coagulato~
+@1077 = ~Formata da grumi di sangue coagulato e indurito, questa aureola un tempo ornava la fronte di un antico Amniote di Sangue che dimorava sotto Myth Unnohyr, nutrendosi del sangue dei caduti.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Quando chi la indossa uccide una creatura, <PRO_HESHE> ottiene 1 Punto Ferita temporaneo per 1 turno (cumulativo).
+
+Abilità durante l'uso:
+– Carisma: –1
+– Resistenza all'Acido: +10%
+– 25% di probabilità che un attaccante che colpisce chi la indossa subisca 1d2 danni da acido (un tiro-salvezza contro Morte con una penalità pari a -2 annulla l'effetto)
+
+Peso: 1
+~
+@1078 = ~Pugnale~
+@1079 = ~Sputo di Scolopendra +3~
+@1080 = ~Questo pugnale finemente lavorato è un'arma prediletta dagli incantatori, specialmente da coloro che padroneggiano evocazioni e proiettili acidi. Potenzia le capacità di lancio degli incantesimi di chi lo impugna e consente a <PRO_HIMHER> di colpire i nemici anche a distanza.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Tempo di lancio degli incantesimi ridotto di 1
+– Immunità al veleno
+
+Abilità in combattimento:
+– Il danno da acido inflitto da chi impugna l'arma è aumentato del 10%
+– Consente di effettuare attacchi sia in mischia sia a distanza
+
+THAC0: +3
+Danno (in mischia): 1d4+3 (perforante), +1 danno da acido
+Danno (a distanza): 1d4+3 (acido)
+Fattore-velocità: 1
+Tipo di Competenza: Pugnale
+Tipo: A una mano
+Richiede:
+Forza 3
+Peso: 1
+~
+@1084 = ~Bastone Rinforzato~
+@1085 = ~Ramo della Valle di Duskwood +3~
+@1086 = ~Questo bastone rinforzato conserva ancora un tenue riflesso verdeggiante. La sua magia protegge chi lo porta da ogni effetto che possa ostacolare la <PRO_HISHER> marcia o interrompere la <PRO_HISHER> avanzata. Per chi desidera soltanto percorrere la propria strada in pace, è un compagno incrollabile.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Rimuovi Paralisi una volta al giorno 
+
+Abilità durante l'uso:
+– Chi lo impugna è immune a qualunque effetto, magico o meno, che influenzi in qualsiasi modo la mobilità. Questo include gli incantesimi Velocità e Lentezza.
+
+THAC0: +3
+Danno: 1d2 (non letale)
+Fattore-velocità: 2
+Tipo di Competenza: Bastone Rinforzato
+Tipo: A due mani
+Richiede:
+Forza 5
+Peso: 3
+~
+@1087 = ~Rosa di Eldath~
+@1088 = ~Questa rosa, benedetta da un sacerdote di Eldath, annulla ogni risucchio di livello inflitto da non morti o da altre forze innaturali.
+
+STATISTICHE:
+
+Speciale: rimuove dal bersaglio tutti gli effetti di risucchio di livello
+
+Peso: 1~
+@1089 = ~Spada a Due Mani~
+@1090 = ~Buona Fortuna, Caprifoglio +3~
+@1091 = ~Questa spada a due mani finemente bilanciata appartenne un tempo a un ranger di nome Vala’ll Stormneedle, amato protettore della regione del Larswood. Era noto per la gioia con cui visse la propria vita accanto alla moglie Systianna, devota seguace di Tymora.
+
+Prima di ogni missione, lei gli baciava la guancia e gli porgeva la lama sussurrando: "Buona fortuna, caprifoglio". A differenza di molti eroi popolari le cui storie terminano nel sangue, Vala'll visse con Systianna fino all'età di ottant'anni, morendo di polmonite.
+
+Alcuni credono che sia stata questa spada a proteggerlo per tutti quegli anni. 
+  
+STATISTICHE:
+
+Abilità in combattimento:
+– Ogni colpo riuscito ha il 15% di probabilità di ridurre di 1 la Fortuna del bersaglio per 2 round (un tiro-salvezza contro Incantesimi con una penalità pari a -4 annulla l'effetto), aumentando al contempo di 1 la Fortuna di chi impugna la spada per un'intera giornata.
+
+THAC0: +3
+Danno: 1d10+3 (tagliente)
+Fattore-velocità: 7
+Tipo di Competenza: Spada a Due Mani
+Tipo: A due mani
+Richiede:
+Forza 14
+Peso: 9~
+@1092 = ~Balestra Leggera~
+@1093 = ~Lanciaspine +1~
+@1094 =~Questa balestra unica evoca da sé dardi magici di spine che, all'impatto, possono intralciare i nemici.
+
+Per la natura degli incantamenti druidici intessuti nell'arma, soltanto i druidi a classe singola sono in grado di impugnarla efficacemente.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Imposta a 1 la Competenza nelle Balestre
+
+Abilità in combattimento:
+– Non richiede munizioni; scaglia dardi magici di spine evocati
+– 20% di probabilità a ogni colpo di intralciare il bersaglio (un tiro-salvezza contro Incantesimi con una penalità pari a -1 annulla l'effetto)
+
+THAC0: +1
+Danno: 1d6+1 (proiettile)
+Fattore-velocità: 4
+Tipo di Competenza: Balestra
+Tipo: A due mani
+Richiede:
+Forza 8
+Peso: 6~
+
+@1146 = ~A chiunque trovi questo scritto:
+
+Il mythal che un tempo avvolgeva Myth Unnohyr è stato corrotto. Fra queste rovine, la magia fallisce e crolla senza preavviso. Le preghiere restano senza risposta, gli incantesimi si deformano o avvizziscono fino a svanire.
+
+Eppure, non tutto è perduto. Prima che le forze mi abbandonassero, ho teorizzato che un'antica reliquia elfica potesse essere restaurata: un talismano capace di incanalare il potere originario del mythal e proteggere chi lo indossa dalla corruzione che ora vi si aggrappa.
+
+Alcuni esseri, fra cui i fuochi fatui, sembrano essersi adattati alla corruzione del mythal. La loro resistenza lascia intendere che l'immunità non sia impossibile. Sospetto che le essenze di fuochi nati tanto dalla magia selvaggia quanto dalla magia morta, unite al talismano elfico stesso, potrebbero restituire alla reliquia il suo scopo originario. Se simili fuochi rari indugiassero ancora fra queste rovine e se l'antico talismano venisse riforgiato, la vita di un mago qui diverrebbe assai meno pericolosa. Potrebbe persino tornare possibile lanciare incantesimi in sicurezza fra queste rovine.
+
+Se un simile talismano possa davvero essere creato, non vivrò abbastanza per scoprirlo.
+
+Che a voi tocchi una sorte migliore della mia.~
+@1147 = ~Storie dei Viandanti della Pace I~
+@1148 = ~"L'Acqua Quieta Dentro di Noi"
+
+Scritto da Lirael delle Rive Gentili, Custode della Pozza Silenziosa
+
+Ero ancora giovane quando mi inoltrai per la prima volta nel Bosco Ammantato. Gli anziani mi avevano avvertito: "Non tutti coloro che camminano in questa foresta onorano la vita."
+
+Eppure il mio cuore non conosceva paura: desideravo portare la fede di Eldath ovunque mi conducessero i miei passi.
+
+Per tre notti dormii al sicuro sotto la volta frondosa. La quarta sera incontrai l'ogre Brughul.
+
+Un vitello spaventato giaceva legato accanto al suo fuoco. L'ogre incombeva su di lui, pronto a macellarlo, con la clava ancora macchiata del sangue secco delle vittime precedenti. Avrei potuto fuggire, abbandonando la creatura al proprio destino.
+
+Invece feci ciò che Eldath mi aveva insegnato: cominciai a cantare.
+
+"Nessun sangue placa quanto la luce,
+attinta a una fonte limpida e pura.
+Nessun grido dona mai liberazione:
+che il silenzio semini la pace nel cuore."
+
+Brughul si voltò di scatto verso di me, gli occhi gialli ardenti di furia omicida. Il bruto avanzò mentre chiudevo gli occhi. Sentii il suo respiro mentre sollevava la clava e mi aspettai che mi abbattesse con un solo colpo.
+
+Invece udii la clava cadere sul muschio, seguita dal lieve sciabordio del vitello che inciampava nell'acqua bassa e scompariva. Poi tutto tacque. Quando riaprii gli occhi, non c'era più nessuno.
+
+Oggi, in quel punto cresce un anello di gigli bianchi.
+
+(Sebbene questo oggetto possa avere valore culturale, non sembra possedere alcuna proprietà magica né essere utile per proseguire la vostra missione.)~
+@1149 = ~Storie dei Viandanti della Pace II~
+@1150 = ~"La Spina e la Colomba"
+Come tramandato dal Circolo Radice di Salice
+
+Fratello Eolan, un Libero Viandante di Eldath, non portava né armi né mappe mentre vagava scalzo per l'Amn. Soltanto un otre d'acqua e un cuore privo d'ira. Là dove altri sguainavano l'acciaio contro gli stranieri, lui rispondeva con un sorriso; quando sollevavano le armi, offriva invece la mano.
+
+La sua prova più grande lo attendeva nella Gola dell'Idolo Caduto. Molto tempo prima, la statua di un dio dimenticato era precipitata dalle rupi e si era frantumata nel baratro sottostante. Da allora, la gola attirava individui dalle intenzioni oscure.
+
+Una di loro era Thornmaw, regina dei briganti segnata dalle cicatrici. Quando Fratello Eolan entrò nel suo dominio, lei e i suoi compagni lo considerarono una preda.
+
+Eppure, quando Eolan li affrontò, non implorò pietà. Si limitò a inginocchiarsi e a estrarre il proprio otre. Con entrambe le mani e un sorriso sincero, glielo offrì. Incrociò il suo sguardo e disse: "Quando è stata l'ultima volta che avete bevuto acqua fresca e pura senza paura?"
+
+Gli altri risero. Thornmaw no. La mano le rimase sull'elsa della lama ricurva. Poi avanzò, accettò l'otre e bevve.
+
+Scagliò l'otre vuoto nel burrone e si voltò: "Andate."
+
+Così Eolan si rialzò e proseguì il proprio cammino. Scomparve fra i passi meridionali e nessuna mano né artiglio si levò contro di lui.
+
+L'anno seguente, accanto all'idolo caduto apparve qualcosa di nuovo: un delicato rampicante verde che si avvolgeva ai suoi piedi di pietra crepata, mentre alla base si raccoglieva acqua pura di sorgente.
+
+(Sebbene questo oggetto possa avere valore culturale, non sembra possedere alcuna proprietà magica né essere utile per proseguire la vostra missione.)~
+@1151 = ~Pietra di Guardia Elfica~
+@1152 = ~Questa è una pietra di guardia elfica finemente lavorata.~
+@1153 = ~Chiave di Rami~
+@1154 = ~Questa chiave è formata da rami intrecciati e sembra aprire un tipo di porta particolare.~
+@1155 = ~Rosa di Mythrien~
+@1156 = ~Questo fiore è noto come Rosa di Mythrien. Alcuni ritengono miracoloso che sia sopravvissuto a tutti i secoli trascorsi dalla caduta di Myth Unnohyr, poiché il persistente influsso del mythal infranto avrebbe dovuto farlo avvizzire molto tempo fa... eppure non è accaduto.
+  
+STATISTICHE:
+
+Peso: 1~
+@1157 = ~Alabarda~
+@1158 = ~Alabarda dei Morsi Feroci +2~
+@1159 = ~Questa alabarda possiede tre punte simili a denti, capaci di perforare perfino alcune armature e infliggere gravi danni ai nemici.
+  
+STATISTICHE:
+
+Abilità in combattimento:
+– Ogni colpo riuscito ha il 50% di probabilità di infliggere 1d6 danni perforanti aggiuntivi 
+
+THAC0: +2
+Danno: 1d10+2 (perforante)
+Fattore-velocità: 7
+Tipo di Competenza: Alabarda
+Tipo: A due mani
+Richiede:
+Forza 13
+Peso: 12~
+@1160 = ~Cintura~
+@1161 = ~Cintura Plasmastelle~
+@1162 = ~Questa cintura appartenne un tempo a Stinna Raonar, una divinatrice elfica che decise di non voler più limitarsi a vedere come si sarebbe potuto dispiegare il futuro, ma di volerlo plasmare. Cominciò così a studiare il modo di alterare ciò che doveva accadere e di manipolare il potere della fortuna.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Fortuna: +1 (solo divinatori)
+– Conoscenza: +10 (solo divinatori)
+– Tiri-salvezza: +2
+
+Peso: 2~
+@1163 = ~Arco Corto~
+@1164 = ~Lettera d'Amore del Bardo +3~
+@1165 = ~Questo arco magico è noto come Lettera d'Amore del Bardo. Scaglia frecce con grazia straordinaria e affina la concentrazione di un bardo. Nelle mani giuste, può trasformare persino un modesto intrattenitore in un formidabile incantatore.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Dardo Incantato una volta al giorno
+
+Abilità durante l'uso:
+– Carisma: +1
+– Consente di memorizzare due incantesimi aggiuntivi di 1° livello e uno aggiuntivo di 2° livello (solo bardi)
+
+Danno: +1 (solo bardi)
+THAC0: +3
+Fattore-velocità: 3
+Tipo di Competenza: Arco Corto
+Tipo: A due mani
+Richiede:
+Forza 3
+Peso: 1~
+@1166 = ~Mazzafrusto~
+@1167 = ~Due Teste Litigiose +2~
+@1168 = ~Questo mazzafrusto apparteneva a un chierico di Tempus che trovava estremamente difficile prendere qualsiasi decisione, cosa assai insolita per chi deve sapere come agire persino nel mezzo delle battaglie più furiose. Alcuni sostengono che quest'arma non lo aiutasse affatto e che, quando la impugnava, finisse per rimuginare ancora di più.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Saggezza: -1
+
+Abilità in combattimento:
+– Attacchi per Round: +1/2 
+– Ogni colpo riuscito ha il 50% di probabilità di infliggere 1d6+3 danni contundenti aggiuntivi
+
+THAC0: +2
+Danno: 1d6+3 (contundente)
+Fattore-velocità: 5
+Tipo di Competenza: Mazzafrusto/Morning Star
+Tipo: A una mano
+Richiede:
+Forza 13
+Peso: 12~
+@1169 = ~Martello da Guerra~
+@1170 = ~Martello dei Colpi Possenti ma Improbabili +4~
+@1171 = ~Questo martello è un'arma insolita. Può spezzare qualunque osso, ammaccare armature di piastre e uccidere creature enormi come giganti o draghi, ma è terribilmente scomodo da impugnare e maneggiare. Se però qualcuno riesce ad assestare il colpo giusto, il risultato può essere davvero grandioso!
+
+STATISTICHE:
+
+THAC0: -4
+Danno: 4d4+5 (contundente)
+Fattore-velocità: 1
+Tipo di Competenza: Martello da Guerra
+Tipo: A una mano
+Richiede:
+Forza 9
+Peso: 4~
+@1172 = ~Morning Star~
+@1173 = ~Il Pesce Palla +3~
+@1174 = ~Questa morning star fu benedetta da un chierico di Umberlee. Il nome dell'arma è chiaramente ispirato alla forma rotonda della sua testa. Si dice che quest'arma e il suo nome divertano persino la Sgualdrina Regina del Mare in persona.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Resistenza al Freddo: +25%
+
+Abilità in combattimento:
+– Ogni colpo riuscito ha il 5% di probabilità di infliggere 1d4 danni da freddo aggiuntivi
+– Ogni colpo riuscito ha il 5% di probabilità di infliggere 1d4 danni perforanti aggiuntivi
+– Ogni colpo riuscito ha il 5% di probabilità di ridurre del 10% la resistenza al freddo del bersaglio per 3 round (nessun tiro-salvezza)
+– A ogni singolo colpo può attivarsi soltanto una delle abilità in combattimento sopra elencate
+
+THAC0: +3
+Danno: 2d4+3 (contundente)
+Fattore-velocità: 4
+Tipo di Competenza: Mazzafrusto/Morning Star
+Tipo: A una mano
+Richiede:
+Forza 11
+Peso: 8~
+@1175 = ~Cotta di Piastre~
+@1176 = ~Cotta di Piastre di Legno Crepuscolare~
+@1177 = ~Questa armatura finemente lavorata è realizzata con strati di legno crepuscolare. Sebbene offra la protezione di una comune cotta di piastre, rimane fedele alla natura. La sua struttura organica consente persino ai druidi a classe singola di indossarla senza violare i propri voti sacri.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Resistenza al Fuoco: -10%
+– Resistenza all'Elettricità: +10%
+– Tiri-salvezza contro Morte: +1
+
+Classe Armatura: 3 (0 contro danno tagliente)
+Richiede:
+Forza 8
+Peso: 20~
+@1178 = ~Pozione~
+@1179 = ~Pozione di Sintonia Naturale~
+@1180 = ~Questa torbida pozione verde emana l'odore della corteccia bagnata e delle foglie schiacciate. Fu ideata da druidi convinti che ogni vera crescita nasca da un sacrificio più grande.
+
+Dopo aver bevuto l'intera pozione, chi la assume percepisce un sottile mutamento nella <PRO_HISHER> natura: la forza si affievolisce, ma qualcosa di curativo si desta. Rinunciando alla potenza bruta, il corpo si apre ai quieti poteri della rigenerazione.
+
+Simili pozioni sono rare e rispettate, poiché insegnano ciò che ogni albero già sa: ciò che viene lasciato andare può nutrire qualcosa di più grande.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Bere la pozione riduce permanentemente di 1 la Forza del personaggio, ma conferisce Cura Ferite Gravi oppure Neutralizzare Veleni (50% di probabilità ciascuno) come abilità innata
+
+Peso: 1~
+@1181 = ~Bacchetta~
+@1182 = ~Bacchetta delle Bacche della Salute~
+@1183 = ~Questa sottile bacchetta sembra essere cresciuta anziché essere stata intagliata: è formata da un unico ramo contorto, liscio al tatto e ancora caldo di vita. A entrambe le estremità sono spuntate minuscole bacche, debolmente luminose di magia druidica.
+
+Nonostante l'aspetto modesto, questa bacchetta racchiude il potere di evocare Bacche della Salute, proprio come l'incantesimo druidico. Questi frutti incantati offrono nutrimento, restituiscono vitalità e conforto nelle terre selvagge: ciascuno è un piccolo dono di pace in un mondo troppo spesso lacerato da lama e fiamma.
+
+STATISTICHE:
+
+– Bacche della Salute una volta per carica
+
+Richiede:
+Saggezza 9
+Peso: 1~
+
+@1184 = ~Volto della Foresta~
+@1185 = ~Questa maschera reca il volto solenne di uno spirito silvano. Chi la indossa percepisce il quieto potere degli alberi: oltre a offrire protezione, guarisce lentamente le ferite di chi la porta mentre <PRO_HESHE> si trova in una foresta.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: +1
+– Rigenera 3 Punti Ferita per round quando ci si trova in una foresta.
+– Protegge contro i colpi critici
+
+Peso: 1~
+@1186 = ~Proiettile di Castagna +2~
+@1187 = ~Questi proiettili da fionda, induriti magicamente, sono ricavati da castagne selvatiche. 
+
+Incantati in origine da un halfling per spaventare un branco di goblin affamati, da allora sono diventati popolari fra burloni e viandanti delle Terre Centrali Occidentali.
+ 
+Nonostante l'aspetto umile, colpiscono con forza sorprendente e con un bruciore che nessuno dimentica facilmente.
+
+STATISTICHE:
+
+THAC0: +2
+Danno: 1d4+3 (proiettile), +2 danni perforanti
+Dispositivo: Fionda
+
+Peso: 0~
+@1188 = ~Questa antica armatura elfica ha ormai da tempo superato i suoi giorni migliori. Un tempo finemente lavorata e degna dell'eleganza del suo popolo, oggi è opaca, crepata e resa fragile dall'età. Qualunque incantamento o robustezza possedesse un tempo si è ridotto in polvere, lasciando soltanto un guscio inadatto alla battaglia.
+
+STATISTICHE:
+
+Peso: 20~
+@1189 = ~Scrittura Frastagliata~
+@1190 = ~La scrittura è rozza e frastagliata, eppure inquietantemente deliberata. Recita:
+
+Pazienza, pazienza... secoli e secoli, e il premio è ancora appena fuori dalla mia portata. La carne dell'elfa, serrata da sciocche protezioni. Ma persino il sigillo più forte può essere spezzato da mani mortali troppo curiose per il proprio bene.
+Trovatene uno. Uno qualunque. Sussurrate promesse. Lasciate che spezzi per me il sigillo della sua tomba.
+Poi... avrò di nuovo un corpo. Un corpo perfetto. Un ricettacolo degno della mia fame.~
+@1191 = ~Bastone della Pestilenza~
+@1192 = ~Intagliato nel durame di un albero morto da tempo, questo bastone emana un debole odore di decomposizione. Si dice che Talona in persona lo abbia donato a un campione mortale il cui solo tocco portava debolezza e febbre.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Tiri-salvezza contro Morte: +2
+
+Abilità in combattimento:
+– A ogni colpo: 5% di probabilità di infliggere Malattia Debilitante; il bersaglio deve superare un tiro-salvezza contro Morte o perdere 2 punti di Forza per 1 turno (cumulativo)
+
+Abilità attivabili:
+– Colpo Avvelenato (una volta al giorno): il bersaglio subisce 1 danno da veleno al secondo per 6 secondi (un tiro-salvezza contro Morte con un bonus pari a +1 annulla l'effetto)
+
+THAC0: +3
+Danno: 1d6+3 (contundente)
+Fattore-velocità: 1
+Tipo di Competenza: Bastone Rinforzato
+Tipo: A due mani
+Richiede:
+Forza 5
+Peso: 3~
+@1193 = ~Frecce dell'Ammaliamento~
+@1194 = ~Queste frecce finemente lavorate non somigliano ad alcun esemplare comune. Le loro punte sono delicatamente foggiate come cuori di corallo levigato. Quando vengono scagliate, cercano di piegare la volontà dei bersagli e di attirarli alla causa dell'arciere.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Il bersaglio deve superare un tiro-salvezza contro Incantesimi o essere charmato per 5 round
+
+THAC0: +1
+Danno: 0 (proiettile)
+Dispositivo: Arco
+
+Peso: 0~
+@1195 = ~Proiettili Avvelenati~
+@1196 = ~Questi proiettili da fionda sono ricoperti da uno spesso veleno a contatto dal fetore nauseante. All'impatto, la sostanza penetra nella ferita provocando una grave afflizione.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Il bersaglio colpito deve superare un tiro-salvezza contro Morte o subire 2 danni da veleno al secondo per 10 secondi
+
+THAC0: +1
+Danno: 1d4+1
+Tipo di Danno: Proiettile
+Dispositivo: Fionda
+
+Peso: 0~
+@1197 = ~Ramo Avvizzente~
+@1198 = ~Questa crudele clava non sembra altro che un ramo nodoso e annerito. Fu recisa da un albero nel cuore di un boschetto devastato dalla pestilenza, dove il respiro di Talona aveva spento ogni forma di vita. Le sue spine brillano di una patina verde opaca, residuo di anni di unzioni velenose.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Bacio di Talona: finché chi impugna l'arma è avvelenato, <PRO_HESHE> ottiene un bonus pari a +5 a tutti i Tiri-salvezza e ai tiri per colpire, finché il veleno non svanisce.
+
+Abilità in combattimento:
+– A ogni colpo: 50% di probabilità che il bersaglio debba effettuare un tiro-salvezza contro Morte; se fallisce, subisce 1 danno da veleno al secondo per 6 secondi
+
+THAC0: +3
+Danno: 1d6+3 (contundente)
+Fattore-velocità: 1
+Tipo di Competenza: Clava
+Tipo: A una mano
+Richiede:
+Forza 5
+Peso: 1~
+@1199 = ~Guanti del Treant~
+@1200 = ~Questi enormi guanti d'arme sono formati da corteccia e radici e furono creati in venerazione dei treant della Foresta di Tethyr.
+Quando chi li indossa è protetto da Pelle Coriacea, i guanti traggono forza dalla corteccia, permettendo di colpire con la potenza di una possente quercia.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Forza: +2 mentre Pelle Coriacea è attiva
+
+Peso: 2~
+@1201 = ~Amuleto della Quiete Interiore~
+@1202 = ~Questo semplice amuleto di legno, incastonato con un'unica perla verde, non reca alcuna iscrizione. Quando il silenzio cala su chi lo indossa, al suo posto sorge una profonda pace interiore che protegge la mente da ogni forza intrusiva.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Finché chi lo indossa è sotto l'effetto di Silenzio: immunità a Suggestione, Charme, Dominio, Comando, Sonno, Labirinto, Stordimento, Confusione e Colpo Psionico.
+
+Peso: 1~
+@1203 = ~Idromele della Valle di Duskwood~
+@1204 = ~Questa pesante botte è colma di idromele dorato prodotto da un monaco di Eldath nella Valle di Duskwood. Il nettare racchiude il paziente lavoro di innumerevoli api.
+
+Il monaco vi ha affidato la botte chiedendovi di consegnarla a Samuel Thunderburp, proprietario dei Cinque Boccali ad Athkatla. Una volta ricevuto il pagamento, dovrete riportargli l'oro affinché possa essere impiegato per i templi e i giardini di Eldath.
+
+Peso: 1~
+@1205 = ~Mantello delle Mille Punture~
+@1206 = ~Questo mantello di spesso tessuto marrone è butterato e traforato da innumerevoli piccoli fori. Nonostante l'aspetto malridotto, la stoffa vibra debolmente di potere protettivo. Odora di fumo, cera e miele selvatico.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: +1 contro attacchi con armi perforanti e da lancio
+– Immunità agli incantesimi Attirare Insetti e Piaga degli Insetti
+
+Peso: 3~
+@1207 = ~Questa rosa color smeraldo è un dono di Mythrien Sarath, il Custode dei Mythal. Ognuno dei suoi fragili petali risplende di una luce che non appartiene a questo mondo, come un'eco delle protezioni perdute delle antiche città elfiche.
+Quando viene staccato un petalo, una sfera traslucida avvolge chi porta la rosa, proteggendo <PRO_HIMHER> dagli incantesimi di potenza minore. Il dono, tuttavia, è effimero: quando cadrà l'ultimo petalo, la rosa si ridurrà in polvere.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Strappa un Petalo: conferisce immunità agli incantesimi sino al 5° livello per 3 round
+– Numero di utilizzi limitato; la rosa svanisce quando le cariche si esauriscono
+
+Peso: 0~
+@1208 = ~Ecologie di Elminster: Appendice IVa~
+@1209 = ~Ecologie di Elminster: Appendice IVa
+
+Questo tomo consunto dal tempo è opera del saggio Elminster e sembra appartenere a una raccolta assai più vasta, contenente studi dettagliati sulla maggior parte delle strane creature diffuse per Faerûn. 
+
+L'appendice sembra riferirsi a varianti di recente scoperta di specie altrimenti comuni. Di particolare interesse:
+
+"Fuochi Fatui (Comuni)
+Queste pallide luci fluttuanti infestano paludi e rovine. Attirano i viaggiatori fuori strada e colpiscono con scoppiettanti scariche di fulmini. Difficili da ferire con l'acciaio o con gli incantesimi, restano fra gli avversari più pericolosi."
+
+"Fuoco Selvaggio
+Una mutazione nata dalla magia instabile. Lampeggiando in bagliori sempre mutevoli, queste luci deformano gli incantesimi attorno a sé. Si incontrano soprattutto nelle regioni di magia selvaggia."
+
+"Fuoco Morto
+Prole della Trama priva di vita, questi globi esangui si nutrono di forza vitale. Indugiano là dove la magia è venuta meno, nei luoghi noti come zone di magia morta."~
+@1210 = ~Essenza del Fuoco Morto~
+@1211 = ~Un granello debolmente luminoso di luce pallida, freddo al tatto e inquietantemente silenzioso. Un'essenza simile potrebbe un giorno servire a contrastare il vuoto là dove la Trama ha ceduto.~
+@1212 = ~Essenza del Fuoco Selvaggio~
+@1213 = ~Questo frammento scintillante pulsa di tonalità caotiche, passando in un istante dallo smeraldo all'ambra. Racchiude la scintilla indomita della magia selvaggia. Alcuni sostengono che un'essenza simile, opportunamente vincolata, possa proteggere chi la porta dalle turbolenze dei campi instabili della Trama.~ 
+@1214 = ~Manuale della Vita Pacifica~
+@1215 = ~Questo tomo contemplativo offre consigli per condurre una vita di serenità e moderazione. Come tutte le opere rare di questo genere, il libro svanisce dopo un singolo utilizzo.
+
+STATISTICHE:
+
+Attacchi per Round: ridotti di 0,5 (permanentemente)
+Classe Armatura: migliorata di 1 (permanentemente)
+Tiri-salvezza: +1 (permanentemente)
+Speciale: il libro viene consumato all'uso
+Uso: collocare in uno slot Oggetto Rapido
+
+Peso: 25~
+@1216 = ~Vaso delle Fate~
+@1217 = ~Questo vaso di cristallo contiene due minuscole creature alate: le Gemelle Luce di Duskwood, le due fate della Valle di Duskwood. Sembrano perfettamente coscienti e osservano l'esterno con occhi curiosi, muovendo le labbra come se conversassero senza sosta, ma dal vaso non esce alcun suono. Il coperchio è immobile, sigillato da una magia più antica e sottile di qualunque serratura. Di tanto in tanto una delle gemelle preme le mani contro la parete interna e articola parole che il vetro non lascia passare. È impossibile dire se si tratti di una supplica o di uno scherzo.
+
+Il sigillo non può essere aperto o infranto con mezzi fisici o magici. Le fate all'interno sono vive ma imprigionate e la loro magia è soppressa dal vincolo del recipiente.
+
+Peso: 1~
+@1218 = ~Lama del Miraggio~
+@1219 = ~Forgiata da geni che cercavano di intessere illusione e movimento in un'unica cosa, questa lama può avvolgere chi la impugna di riflessi scintillanti, trasformandolo in un miraggio vivente.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Immagini Illusorie una volta al giorno
+  Durata: 1 turno
+
+THAC0: +3
+Danno: 1d8+3 (tagliente)
+Fattore-velocità: 2
+Tipo di Competenza: Scimitarra/Wakizashi/Ninjato
+Tipo: A una mano
+Richiede:
+Forza 10
+Peso: 1~
+@1220 = ~Desiderio
+
+Desiderio realizzerà letteralmente la richiesta formulata dal lanciatore. La realtà del passato, del presente o del futuro potrebbe essere alterata in maniera limitata. Quanto più grande è il desiderio, tanto maggiore è la tensione imposta al tessuto della realtà e tanto più elevata la possibilità di conseguenze indesiderate.
+
+Curiosamente, questa particolare pergamena può essere letta da chiunque, non soltanto da chi è addestrato nelle arti arcane. Le sue parole sono scritte in un linguaggio tanto semplice e limpido che persino una persona priva d'istruzione potrebbe pronunciarle ad alta voce senza difficoltà. Quasi troppo semplice, a dire il vero... troppo facile da credere.~
+@1221 = ~Perso un punto di Saggezza~
+@1222 = ~Pagina Strappata I~
+@1223 = ~Queste pagine strappate e sbiadite sembrano frammenti di una cronaca ben più vasta dedicata alla storia di Myth Unnohyr. L'inchiostro è elfico, la grafia elegante ma logorata dal tempo:
+
+"Dai Giorni della Fondazione - Anno della Prima Fioritura
+
+E così la Città della Quieta Radianza fu adagiata nella radura della foresta, là dove sette linee di forza si incontravano e la brezza sussurrava nella lingua degli antichi. Gli Alti Maghi di Unnohyr vincolarono le prime pietre con parole d'argento e radici viventi, e i cieli si fecero azzurri e profondi sotto la loro benedizione.
+
+Mythrien Sarath, Signore delle Protezioni, posò il proprio sguardo e ne fu compiaciuto. Il suo tocco cadde come rugiada sulle alte torri e, da quel giorno, il mythal protesse la città con luce e serenità. Che ogni conflitto si infranga e venga lavato via dinanzi alle nostre mura, proclamava il Giuramento della Fondazione.
+
+E per un tempo, così fu."
+
+Sebbene non sembrino direttamente utili alla vostra missione, queste parole possono aiutarvi a comprendere più a fondo la natura di ciò che avvenne qui... e di ciò che andò perduto.~
+@1224 = ~Pagina Strappata II~
+@1225 = ~Queste pagine strappate e sbiadite sembrano frammenti di una cronaca ben più vasta dedicata alla storia di Myth Unnohyr. L'inchiostro è elfico, la grafia elegante ma logorata dal tempo:
+
+"All'apice della gloria di Myth Unnohyr, un alto mago elfico tentò di legare la propria anima al mythal della città. Non desiderava saggezza né un'eredità da lasciare ai posteri, bensì una vita senza fine, trasferita da un ricettacolo all'altro dalla trama eterna dell'incantesimo. 
+
+Così facendo, tuttavia, ferì il cuore stesso del mythal. Vita e morte si mescolarono e, quando il suo corpo cadde, il mythal stesso lo fece risorgere, ogni volta dentro un altro elfo caduto.
+Nacque così l'eco imperitura di un guardiano che aveva tradito il proprio giuramento. La sua immortalità divenne la maledizione della città e la sua rinascita il suo eterno decadimento."
+
+Sebbene non sembrino direttamente utili alla vostra missione, queste parole possono aiutarvi a comprendere più a fondo la natura di ciò che avvenne qui... e di ciò che andò perduto.~
+@1226 = ~Anello con Sigillo della Casata Vemmil~
+@1227 = ~Questo opulento anello con sigillo reca lo stemma della famiglia Vemmil, un'antica stirpe di mercanti dell'Amn nota per la propria ricchezza, gli intrighi politici e una sbalorditiva mancanza di umiltà. Fra l'élite dell'Amn, chi lo indossa viene spesso accolto con sorrisi, sinceri o meno, e con un attento conteggio dell'argenteria.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Immunità al veleno
+
+Abilità attivabili:
+– Amicizia una volta al giorno
+  Area d'effetto: Il personaggio
+
+Peso: 1~
+@1228 = ~Lama del Giorno e della Notte~
+@1229 = ~Forgiata nei giorni antichi di Myth Unnohyr, questa elegante spada lunga fu un tempo un'arma cerimoniale dei guardiani elfici al servizio del Custode dei Mythal. Nota come Lama del Giorno e della Notte, si diceva incarnasse l'equilibrio fra vigilanza e riposo.
+
+Le leggende raccontano che la spada si spezzò quando il mythal protettivo della città cominciò a indebolirsi e le sue due metà furono scagliate lontano da forze opposte di luce e tenebra. 
+
+Ora riforgiata, la spada muta la propria natura col volgere dei cieli. Alla luce del giorno arde affilata e possente. Sotto la luna e le stelle attenua il proprio fulgore, proteggendo con pazienza chi la porta.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Durante il giorno e all'alba: +1 al THAC0 e +1 al danno
+– Durante la notte e al crepuscolo: +1 alla Classe Armatura e +1 a tutti i Tiri-salvezza
+
+THAC0: +3
+Danno: 2d4+3 (tagliente)
+Fattore-velocità: 5
+Tipo di Competenza: Spada Bastarda
+Tipo: A una mano
+Richiede:
+Forza 11
+Peso: 7~
+@1230 = ~Parte di una Lama~
+@1231 = ~Questa è una parte di una lama. Il metallo scintilla di una tonalità bluastra, punteggiato da minuscoli bagliori che risplendono come stelle nel cielo notturno. Senza l'altra metà della spada e qualcuno abbastanza abile da riforgiarle insieme, questo frammento serve a ben poco.~
+@1232 = ~Questa è una parte di una lama. Il metallo riluce di una radiosa luce dorata, splendente come i raggi del sole. Senza l'altra metà della spada e qualcuno abbastanza abile da riforgiarle insieme, questo frammento serve a ben poco.~
+@1233 = ~Lama della Notte~
+@1234 = ~Lama del Giorno~
+@1235 = ~Questa è una parte della leggendaria spada elfica nota come "Lama del Giorno e della Notte". Questo frammento è la Lama della Notte. Il metallo scintilla di una tonalità bluastra, punteggiato da minuscoli bagliori che risplendono come stelle nel cielo notturno. Senza l'altra metà della spada e qualcuno abbastanza abile da riforgiarle insieme, questo frammento serve a ben poco.~
+@1236 = ~Questa è una parte della leggendaria spada elfica nota come "Lama del Giorno e della Notte". Questo frammento è la Lama del Giorno. Il metallo riluce di una radiosa luce dorata, splendente come i raggi del sole. Senza l'altra metà della spada e qualcuno abbastanza abile da riforgiarle insieme, questo frammento serve a ben poco.~
+
+@1237 = ~Marrik, 
+siamo dietro il Tempio di Helm nel Distretto del Ponte dopo il tramonto, come ogni notte. Porta il gettone e avrai ciò che continui a chiedere.~
+@1238 = ~Vecchia Moneta~
+@1239 = ~Questa moneta consunta reca la debole effigie di un uomo anziano dall'espressione severa. Chiunque l'abbia coniata è stato dimenticato da tempo, così come lo scopo a cui un tempo serviva.~
+
+@1240 = ~Bottiglia di Polvere dei Folletti~
+@1241 = ~Questa piccola bottiglia contiene una manciata di scintillante Polvere dei Folletti che può essere sparsa nell'aria. Qualunque alleato toccato dalla polvere diventa invisibile (la polvere si diffonde in un raggio di circa 4,5 metri). Naturalmente, la creatura invisibile non viene silenziata magicamente e determinate condizioni possono comunque rivelarne la presenza. Persino gli alleati non possono vedere la creatura invisibile né il suo equipaggiamento, a meno che non siano normalmente in grado di vedere l'invisibile o ricorrano alla magia. Gli oggetti lasciati cadere o posati dalla creatura invisibile diventano visibili, mentre quelli raccolti svaniscono se vengono riposti negli abiti o nelle borse della creatura.
+
+La magia della polvere dura finché non viene dissolta, interrotta volontariamente o spezzata da un attacco. Può anche svanire naturalmente dopo 24 ore. La creatura invisibile può muoversi liberamente e lanciare incantesimi difensivi, ma qualsiasi azione offensiva termina immediatamente l'effetto, pur consentendo al primo colpo di essere sferrato senza essere visto.~
+@1242 = ~Freccia Curativa~
+@1243 = ~Queste frecce sono un'invenzione dei fedeli di Eldath. Ogni asta porta una piccola fiala di acqua santificata attinta da una sorgente sacra. Quando la freccia colpisce, la fiala si infrange liberando una lieve esplosione di essenza divina che penetra nella carne ferita del bersaglio.
+
+Sebbene siano state create per guarire, persino un colpo delicato può provocare un livido o un taglio se scagliato da un arco potente: un piccolo prezzo da pagare per la guarigione che concedono.
+
+STATISTICHE:
+
+THAC0: +1 
+Dispositivo: Arco
+Speciale: restituisce 4d6 Punti Ferita alla creatura colpita
+
+Peso: 0~
+@1244 = ~Ascia delle Scuse~
+@1245 = ~Questa ascia da battaglia magica reca l'immagine di un orco. Un tempo impugnata dagli Ondonti, un clan isolato di orchi pacifici dell'Irraggiungibile Est devoti a Eldath, serviva come simbolo di pentimento.
+
+L'ascia sussurra un sommesso "Scusa!" ogni volta che colpisce un bersaglio. Purtroppo, queste scuse gravano più su chi impugna l'arma che sul nemico, instillando un sottile senso di colpa che disturba la <PRO_HISHER> concentrazione in battaglia.
+
+Quando chi la porta viene ferito, tuttavia, l'ascia può talvolta rivelarsi utile in combattimento, concedendo una benedizione di Eldath.
+
+
+STATISTICHE:
+
+Abilità durante l'uso: 
+– 25% di probabilità di lanciare Cura Ferite Medie su chi la impugna quando viene colpito
+
+Abilità in combattimento:
+– Ogni colpo riuscito infligge a chi impugna l'ascia una penalità cumulativa di –2 al THAC0 per 2 round
+
+THAC0: +2
+Danno: 1d8+2 (tagliente)
+Fattore-velocità: 5
+Tipo di Competenza: Ascia
+Tipo: A una mano
+Richiede:
+Forza 10
+Peso: 5~
+@1246 = ~Sandali del Libero Viandante~
+@1247 = ~Questi semplici sandali di cuoio proteggono chi li indossa lungo la <PRO_HISHER> pacifica strada. Prediletti da coloro che viaggiano senza violenza e non si lasciano fermare da nulla, assicurano che nessun passo debba essere rallentato.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Immunità a Blocca Persone e Lentezza
+
+Peso: 4
+~
+@1248 = ~Anello dell'Anti-individuazione~
+@1249 = ~Creato da una cabala di eremiti, questo semplice anello fu concepito per proteggere i loro agenti dalle indagini arcane. Quando viene indossato, avvolge chi lo porta in una sottile contromagia che impedisce l'individuazione mediante incantesimi.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Mentre è nascosto tra le ombre o invisibile, il portatore non è individuabile da mezzi magici quali Individuazione dell'Invisibilità e altri incantesimi di Divinazione
+
+Peso: 0~
+@1250 = ~Polvere Accecante~
+@1251 = ~Questa polvere può essere scagliata contro qualsiasi creatura entro 12 metri. All'impatto esplode in una nube accecante che colpisce tutte le creature coinvolte che non riescono a distogliere lo sguardo.
+
+STATISTICHE:
+
+Acceca le creature colpite (un tiro-salvezza contro Soffio con una penalità pari a -4 annulla l'effetto)
+Durata: 1 turno
+Area d'effetto: Raggio di 4,5 metri
+
+Peso: 1~
+@1252 = ~Amuleto Oscuro di Mythrien~
+@1253 = ~Questo amuleto fu creato tramite sinistri rituali drow a partire dai frammenti spezzati di un antico monile degli elfi di superficie, con ogni probabilità un pendente sacro un tempo consacrato a Mythrien Sarath. La purezza che possedeva è stata profanata da tempo. Qualunque materiale i drow abbiano impiegato nella sua creazione... il procedimento fu senza dubbio crudele e molto, molto sanguinoso.
+
+Abilità durante l'uso: 
+– Immunità agli effetti delle zone di magia selvaggia e magia morta di Myth Unnohyr
+
+Peso: 0~
+@1254 = ~Stivali di Seta di Ragno~
+@1255 = ~Questi morbidi stivali sono stati ricavati da pelle di ragno e rinforzati con fili di seta consacrata. Indossati dagli esploratori di superficie di Vhaeraun, consentono di muoversi rapidamente e in silenzio fra ragnatele, radici e insidie magiche.
+Un sottile incantamento concede a chi li indossa un lieve vantaggio difensivo contro avversari elfici.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Immunità a Intralciare e Ragnatela
+– +2 alla Classe Armatura e +2 ai Tiri-salvezza contro gli elfi 
+– Muoversi Silenziosamente: +10%
+– Nascondersi tra le Ombre: +10%
+
+Peso: 4~
+
+@1256 = ~Moneta della Liberazione di Shoonach~
+
+@1257 = ~Una semplice moneta di rame proveniente dalla città sommersa di Shoonach. Reca l'effigie idealizzata di un umano senza nome.
+
+Nell'antico Impero Shoon, saturo di magia, simili gettoni venivano impiegati per dissolvere manipolazioni e incantamenti arcani. La maggior parte perse il proprio potere secoli fa. Questo, tuttavia, sembra conservare ancora l'ultimo residuo di un'antica magia dissolvente.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Il gettone può essere attivato mediante una parola di comando per sprigionare un potente effetto di Dissolvi Magie entro un raggio di 4,5 metri. Il gettone viene distrutto dopo l'uso.
+
+Peso: 0~
+
+@1258 = ~Protezione dal Veleno~
+@1259 = ~Protezione dal Veleno 
+(Scongiurazione)
+
+Livello: 2
+Raggio d'azione: Tocco
+Durata: 10 round 
+Tempo di lancio: 3
+Area d'effetto: Creatura toccata
+Tiro-salvezza: Nessuno
+
+Usando questo incantesimo, la creatura scelta ottiene immunità ai veleni e alle tossine somministrati tramite contatto con la pelle, ingestione, puntura, morso o arma. Le tossine di altro tipo continuano a influenzare normalmente la creatura. Anche eventuali veleni già presenti nel corpo al momento del lancio non vengono influenzati da questo incantesimo.~
+
+// script strings
+@2000 = ~Valle di Duskwood~
+@2001 = ~Eldath, dea della pace e delle acque tranquille~
+@2002 = ~Un profondo senso di pace vi avvolge in questo luogo. Vi sentite del tutto incapaci di levare un'arma qui.~
+@2003 = ~Avvicinandovi al passaggio che conduce ai livelli inferiori, avvertite un guizzo di magia. Sembra che il mythal corrotto non raggiunga le profondità: la vostra magia dovrebbe quindi funzionare normalmente nelle aree sottostanti.~
+@2004 = ~Entrando nella città elfica in rovina, sentite i resti infranti del mythal avvolgersi attorno a voi: la sua magia, un tempo pura, è ora contorta in una miscela instabile di ondate selvagge e magia morta.~
+@2005 = ~Dovete posare entrambe le parti della collana sull'incudine per riforgiarle in un unico pezzo.~
+@2006 = ~Grazie all'incudine magica, riuscite a riforgiare le due parti e a unirle nuovamente.~
+@2007 = ~Possibile che siate voi... finalmente, amore mio?~
+@2008 = ~Il mythal corrotto non raggiunge questo luogo.~
+@2009 = ~(Avvertite una forza che attira la pietra ioun a forma di bacca verso la torre. Potrebbe essere il segno che ora siete in grado di varcarne le mura.)~
+@2010 = ~(Non avete la pietra ioun a forma di bacca. Non potete più entrare nella torre. Senza la pietra, la barriera è nuovamente innalzata.)~
+@2011 = ~Una piccola incudine da gioielliere poggia sopra un'incudine più grande. Frammenti di sottili catene sono sparsi tutt'attorno, come se qui fossero state forgiate molte collane. Stranamente, l'incudine emana una forte magia che sembra non essere stata toccata dal mythal corrotto.~
+@2012 = ~Nessuno degli oggetti nel vostro inventario sembra adatto a forgiare una collana su questa incudine.~
+@2013 = ~La magia sembra funzionare normalmente in quest'area.~
+@2014 = ~Questa statua raffigura una divinità elfica, ma vi riesce difficile riconoscerla.~
+@2015 = ~Questa statua raffigura Mythrien Sarath, un dio quasi dimenticato un tempo venerato come custode dei mythal.~
+@2016 = ~Ritenete che questa statua raffiguri con ogni probabilità Mythrien Sarath, un dio elfico ormai quasi dimenticato.~
+@2017 = ~IO SONO IL VELENO E VI DIVORERÒ!~
+@2018 = ~Udite un debole suono levarsi dal calderone. Sembra che, con la morte della creatura, al suo interno si sia formato un antidoto.~
+@2019 = ~La rosa... dev'essere al sicuro!~
+@2020 = ~Portatela a Mythrien! Posatela ai suoi piedi e protendetevi verso la sua mano tesa!~
+@2021 = ~Avvicinandovi alle rovine, notate un ankheg che sembra essere stato attirato dal luogo; quando però la creatura si accorge di voi, decide di attaccare.~  
+@2022 = ~La statua di una giovane guerriera elfica, con rose rosse che sbocciano ai suoi piedi: le sole piante rimaste intatte dalla corruzione del mythal.~
+@2023 = ~Sembra che vi occorra qualcos'altro per forgiare un amuleto capace di proteggervi dal mythal: a quanto pare, un'essenza.~
+
+@2024 = ~Sangue... non vedo altro che sangue!~
+@2025 = ~Liberatemi! Vi prego!~
+@2026 = ~(Lo yuan-ti non si vede da nessuna parte, ma non può aver lasciato Myth Unnohyr: era troppo ferito per riuscirci.)~
+@2027 = ~Siete di nuovo a Myth Unnohyr. Il cammino alle vostre spalle è sigillato da una parete di vegetazione aggrovigliata. L'unica via di fuga si trova davanti a voi, attraverso il cuore della città infranta.~
+@2028 = ~Qualcosa di inquietante si agita a nord. Per raggiungerlo dovete attraversare il santuario che un tempo apparteneva al sacerdote di Talona.~
+@2029 = ~Dovremmo prima far visita alla nostra amica driade. Da quanto ho capito, è lei ad avere la spada.~
+@2030 = ~Siamo venuti per il Ricordo dei Miti. L'Alto Sacerdote sa ogni cosa.~
+@2031 = ~Sì. Lo so. E mi è stato detto di darvi la spada. Anche se credo che dovrebbe restare qui. Con me.~
+@2032 = ~Non abbiamo molta scelta.~
+@2033 = ~C'è sempre una scelta.~
+@2034 = ~Ecco. Prendetela. E prego che non diventi la vostra rovina. Che Eldath vegli su di voi.~
+@2035 = ~Ora vi manderò all'ingresso nascosto di Myth Unnohyr, <CHARNAME>.~
+@2036 = ~Addio. Che il quieto respiro di Eldath vi protegga.~
+@2037 = ~Trovate il nostro nemico, <CHARNAME>. Trovate il Wyrd e usate questa spada contro di esso. Dovrebbe anche infrangere la barriera e permettervi di lasciare quel luogo maledetto.~
+@2038 = ~Attenderemo il vostro ritorno.~
+@2039 = ~Se qualcuno può vincere questa battaglia, siete voi.~
+@2040 = ~Il cammino alle vostre spalle è sigillato da una parete di vegetazione aggrovigliata. L'unica via di fuga si trova davanti a voi, attraverso il cuore della città infranta.~
+@2041 = ~L'ingresso di questa torre è avvolto da una nebbia innaturale. Senza il mezzo appropriato, non potrete entrare.~
+
+// ACPP 77 strings
+@2042 = ~Una fiera guerriera elfica si erge gioiosa davanti alla sua città.~
+@2043 = ~Combatte contro numerose bestie.~
+@2044 = ~La guerriera elfica sembra stabilizzare una qualche magia.~
+@2045 = ~Una comunità elfica piange davanti a una bara.~
+
+@2046 = ~Riconoscete Elv-Esster Aened, comandante della guardia di Myth Unnohyr. Si erge davanti alla città, giovane, fiera e colma di speranza.~
+@2047 = ~Combatte contro numerose bestie: sembra che il dio Malar abbia avuto parte in tutto questo. Elv-Esster le affronta da sola, inflessibile e senza paura.~
+@2048 = ~Comprendete che sta cercando di stabilizzare il mythal morente con la propria essenza: un atto di sacrificio e magia.~
+@2049 = ~Gli elfi in lutto raffigurati in questa scena non sono soltanto testimoni della morte, ma di un fallimento divino. Alcuni chinano il capo, altri rivolgono al cielo sguardi accusatori.~
+
+@2050 = ~Una creatura non morta sembra impossessarsi di un elfo.~
+@2051 = ~La guerriera elfica tenta di respingere i non morti.~
+@2052 = ~La guerriera elfica sembra essere dilaniata da una luce magica accecante.~
+
+@2053 = ~Tomba di Elv-Esster Aened~
+
+@2054 = ~Un'entità spettrale avvolta dalle ombre sembra insinuarsi nel corpo di un elfo morente.~
+@2055 = ~Elv-Esster Aened e la sua gente si oppongono all'avanzata dei non morti, scagliando disperatamente i propri incantesimi.~
+@2056 = ~Un'ondata di magia selvaggia erompe quando il mythal si frantuma: Elv-Esster scompare nella luce accecante.~
+
+// ACPP70 strings - the tree obstacle
+@2060 = ~Per il potere della pietra di guardia, la moltitudine di alberi non morti viene bandita.~
+@2061 = ~Potreste tentare di spostare questo possente albero usando un oggetto, il fuoco oppure una forza eccezionale.~
+@2062 = ~Con la sola forza bruta riuscite davvero a spostare l'albero.~
+@2063 = ~Potreste tentare di spostare questo possente albero usando un oggetto, il fuoco oppure una forza eccezionale.~
+@2064 = ~L'albero cede al fuoco e si dissolve.~
+@2065 = ~Il fuoco sembra distruggere lentamente l'albero caduto.~
+@2066 = ~Il fuoco sembra avere qualche effetto sull'albero caduto.~
+@2067 = ~Ora che il passaggio è libero, la pietra di guardia si sgretola in polvere.~
+
+@2068 = ~Tempio di Mythrien~
+@2069 = ~Mmm... oh-ho-ho! Hmmm. Che dolcezza! Favo croccante, nettare dorato... *slurp* Ahhh, pura beatitudine!~ [AC#PPHO0]
+@2070 = ~Oh! Per la Gentile Custode della Covata... non mi aspettavo compagnia mentre mi concedevo questo piacere.~
+
+@2071 = ~Da tutto ciò che avete appreso, questa statua sembra raffigurare la Comandante Elv-Esster Aened, un tempo a capo della guardia di Myth Unnohyr.~
+@2072 = ~La zona di magia morta impedisce alla trappola di attivarsi correttamente.~
+@2073 = ~Seguitemi.~
+
+@2074 = ~Vi occorrono tutte le benedizioni per compiere il rituale necessario a creare l'antidoto.~
+
+@2075 = ~Sebbene l'acqua sia torbida, scorgete un tunnel sotto la superficie. Potreste immergervi e attraversarlo per esplorarlo, se lo desiderate.~
+
+@2080 = ~Casa sull'Albero~
+@2081 = ~Vecchia Casa~
+@2082 = ~Radura~
+
+// the two fairies
+@2100 = ~Se proprio dovete scintillare, fatelo laggiù!~
+@2101 = ~Ma laggiù è noioso!~
+@2102 = ~Smettete di tirarmi la veste!~
+@2103 = ~E va bene, e va bene! Allora ti tireremo i capelli. Contento adesso?~
+@2104 = ~Non fidarti delle lucciole. Sono solo esibizioniste senza stile.~
+
+@2105 = ~Ora che siete al sicuro, vi prego: niente più sparizioni senza dire una parola!~
+@2106 = ~Ma allora per chi ti preoccuperesti, Fratello Edrim? Ti teniamo il cuore in forma!~
+@2107 = ~È davvero meraviglioso riavervi qui!~
+@2108 = ~Oh, davvero? Te lo ricorderemo la prossima volta che ti tireremo la veste!~
+
+@2200 = ~Infermeria~
+@2201 = ~Tempio di Eldath~
+@2202 = ~Albero del Nutrimento~
+@2203 = ~Grotta di Eldath~
+@2204 = ~Albero del Sommo Custode delle Cascate~
